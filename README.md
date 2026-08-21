@@ -39,7 +39,7 @@ visual place recognition algorithm
 ##### maplab
 
 An Open Framework for Research in Visual-inertial Mapping and Localization
-<https://github.com/ethz-asl/maplab> ⭐ 2,866 | 🐛 124 | 🌐 C++ | 📅 2024-05-31
+<https://github.com/ethz-asl/maplab> ⭐ 2,867 | 🐛 124 | 🌐 C++ | 📅 2024-05-31
 from Roland Siegwart
 
 ##### OpenVSLAM: Versatile Visual SLAM Framework
@@ -76,7 +76,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### SLAM in unstructed environments
 
-<https://github.com/tu-darmstadt-ros-pkg/hector_slam> ⭐ 740 | 🐛 26 | 🌐 C++ | 📅 2026-06-10
+<https://github.com/tu-darmstadt-ros-pkg/hector_slam> ⭐ 741 | 🐛 26 | 🌐 C++ | 📅 2026-06-10
 
 ##### Dense Visual Odometry and SLAM (dvo\_slam)
 
@@ -88,7 +88,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### Real-time dense visual SLAM system  : ElasticFusion
 
-<https://github.com/mp3guy/ElasticFusion> ⭐ 1,926 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
+<https://github.com/mp3guy/ElasticFusion> ⭐ 1,927 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
 it has nice gui and dataset , paper and video too .
 
 ##### Real-time dense visual SLAM
@@ -140,17 +140,17 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 ##### ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 
-<https://github.com/raulmur/ORB_SLAM> ⭐ 1,630 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
+<https://github.com/raulmur/ORB_SLAM> ⭐ 1,632 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,214 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,216 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,966 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,974 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -168,7 +168,7 @@ no loop closure or bundle adjustment
 
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 
-<https://github.com/tum-vision/lsd_slam> ⭐ 2,720 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
+<https://github.com/tum-vision/lsd_slam> ⭐ 2,721 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
 
 modification over the original package to work with rolling chatter camera ( cheap webcams)
 <https://github.com/FirefoxMetzger/lsd_slam> ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2017-04-14
@@ -214,7 +214,7 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,889 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,890 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -224,7 +224,7 @@ UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Map
 
 ##### Dense Sparse odometry
 
-<https://github.com/JakobEngel/dso> ⭐ 2,451 | 🐛 138 | 🌐 C++ | 📅 2024-02-23
+<https://github.com/JakobEngel/dso> ⭐ 2,452 | 🐛 138 | 🌐 C++ | 📅 2024-02-23
 
 ##### monocular odometry algorithm
 
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,651 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,653 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 232 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -274,7 +274,7 @@ Robust Visual Inertial Odometry
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,003 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,005 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
