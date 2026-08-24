@@ -124,7 +124,7 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 ##### DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes
 
-<https://github.com/BertaBescos/DynaSLAM> ⭐ 944 | 🐛 64 | 🌐 C++ | 📅 2020-03-18
+<https://github.com/BertaBescos/DynaSLAM> ⭐ 945 | 🐛 64 | 🌐 C++ | 📅 2020-03-18
 
 ### Augmented Reality
 
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,977 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,979 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -168,7 +168,7 @@ no loop closure or bundle adjustment
 
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 
-<https://github.com/tum-vision/lsd_slam> ⭐ 2,723 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
+<https://github.com/tum-vision/lsd_slam> ⭐ 2,724 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
 
 modification over the original package to work with rolling chatter camera ( cheap webcams)
 <https://github.com/FirefoxMetzger/lsd_slam> ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2017-04-14
@@ -190,7 +190,7 @@ with paper and video ICRA 2017 , rosbag as well.
 
 ##### DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 
-<https://github.com/jczarnowski/DeepFactors?fbclid=IwAR3tMyM_VisfjADs5pX3OHoxSU6w6MorupmvXZDr8c9m2MWLObdcnlBNNpg> ⭐ 639 | 🐛 7 | 🌐 C++ | 📅 2022-10-15
+<https://github.com/jczarnowski/DeepFactors?fbclid=IwAR3tMyM_VisfjADs5pX3OHoxSU6w6MorupmvXZDr8c9m2MWLObdcnlBNNpg> ⭐ 640 | 🐛 7 | 🌐 C++ | 📅 2022-10-15
 
 ##### ORB-SLAM RGBD + Inertial
 
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,663 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,667 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 232 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -270,7 +270,7 @@ Robust Visual Inertial Odometry
 
 ##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,967 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
+<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,968 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,794 | 🐛 232 | 🌐 Python | 📅 2026-08-22
+<https://github.com/mapillary/OpenSfM> ⭐ 3,795 | 🐛 232 | 🌐 Python | 📅 2026-08-22
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 

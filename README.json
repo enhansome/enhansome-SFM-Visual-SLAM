@@ -1,7 +1,1303 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/unr-arl/rhem_planner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79052005,
+                "language": "C++",
+                "last_commit": "2018-05-30T00:27:56Z",
+                "owner": "ntnu-arl",
+                "repo": "rhem_planner",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Uncertainty-aware Receding Horizon Exploration and Mapping Planner"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/lrse/sptam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42000477,
+                "language": "C++",
+                "last_commit": "2020-05-14T08:16:29Z",
+                "owner": "lrse",
+                "repo": "sptam",
+                "stars": 375
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "S-PTAM: Stereo Parallel Tracking and Mapping"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/aharmat/mcptam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21010379,
+                "language": "C++",
+                "last_commit": "2017-03-08T04:49:57Z",
+                "owner": "aharmat",
+                "repo": "mcptam",
+                "stars": 166
+              }
+            }
+          ],
+          "description": "MCPTAM is a set of ROS nodes for running Real-time 3D Visual Simultaneous Localization and Mapping (SLAM) using Multi-Camera Clusters. It includes tools for calibrating both the intrinsic and extrinsic parameters of the individual cameras within the rigid camera rig.",
+          "node_type": "group",
+          "title": "mcptam"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/davidmball/ratslam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33707575,
+                "language": "C++",
+                "last_commit": "2023-01-16T19:37:53Z",
+                "owner": "davidmball",
+                "repo": "ratslam",
+                "stars": 169
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "rat-SLAM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/xdspacelab/openvslam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 183462315,
+                "language": null,
+                "last_commit": "2021-02-25T06:32:26Z",
+                "owner": "xdspacelab",
+                "repo": "openvslam",
+                "stars": 2976
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenVSLAM: Versatile Visual SLAM Framework"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/berndpfrommer/tagslam",
+              "description": "ROS ready, bag file available",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124951227,
+                "language": "C++",
+                "last_commit": "2026-01-08T22:59:19Z",
+                "owner": "berndpfrommer",
+                "repo": "tagslam",
+                "stars": 369
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SLAM with Apriltag"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/izhengfan/se2clam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173699167,
+                "language": "C++",
+                "last_commit": "2020-05-10T02:26:28Z",
+                "owner": "izhengfan",
+                "repo": "se2clam",
+                "stars": 162
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SE2 SLAM fusing odom and Vision"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/MarianoJT88/Joint-VO-SF",
+                  "description": "published in ICRA 2017",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88741290,
+                    "language": "C++",
+                    "last_commit": "2017-10-04T07:54:41Z",
+                    "owner": "MarianoJT88",
+                    "repo": "Joint-VO-SF",
+                    "stars": 104
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fast Odometry and Scene Flow from RGB-D Cameras"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/strasdat/ScaViSLAM/",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2906530,
+                    "language": "C++",
+                    "last_commit": "2017-05-10T21:37:16Z",
+                    "owner": "strasdat",
+                    "repo": "ScaViSLAM",
+                    "stars": 342
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/felixendres/rgbdslam_v2",
+                  "description": "ROS ready, It accompany a PHD thesis from TUM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19455240,
+                    "language": "C++",
+                    "last_commit": "2023-07-18T08:43:02Z",
+                    "owner": "felixendres",
+                    "repo": "rgbdslam_v2",
+                    "stars": 984
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "general and scalable framework for visual SLAM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/tu-darmstadt-ros-pkg/hector_slam",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10050401,
+                    "language": "C++",
+                    "last_commit": "2026-06-10T08:10:08Z",
+                    "owner": "tu-darmstadt-ros-pkg",
+                    "repo": "hector_slam",
+                    "stars": 741
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SLAM in unstructed environments"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/tum-vision/dvo_slam",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12110125,
+                    "language": "C++",
+                    "last_commit": "2016-09-21T19:57:35Z",
+                    "owner": "tum-vision",
+                    "repo": "dvo_slam",
+                    "stars": 668
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dense Visual Odometry and SLAM (dvo_slam)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/danping/CoSLAM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12717189,
+                    "language": "C++",
+                    "last_commit": "2018-04-06T03:08:37Z",
+                    "owner": "danping",
+                    "repo": "CoSLAM",
+                    "stars": 291
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Coslam: Collaborative visual slam in dynamic environments"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/mp3guy/ElasticFusion",
+                  "description": "... it has nice gui and dataset , paper and video too .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44748564,
+                    "language": "C++",
+                    "last_commit": "2025-08-03T10:04:09Z",
+                    "owner": "mp3guy",
+                    "repo": "ElasticFusion",
+                    "stars": 1927
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Real-time dense visual SLAM system : ElasticFusion"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/mp3guy/Kintinuous",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44748381,
+                    "language": "C++",
+                    "last_commit": "2022-08-26T16:45:24Z",
+                    "owner": "mp3guy",
+                    "repo": "Kintinuous",
+                    "stars": 954
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Real-time dense visual SLAM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/dorian3d/RGBiD-SLAM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62049867,
+                    "language": "C++",
+                    "last_commit": "2016-06-27T16:35:35Z",
+                    "owner": "dorian3d",
+                    "repo": "RGBiD-SLAM",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dense RGBD slam"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/lifunudt/M2SLAM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90840345,
+                    "language": "C++",
+                    "last_commit": "2017-05-16T14:19:10Z",
+                    "owner": "lifunudt",
+                    "repo": "M2SLAM",
+                    "stars": 46
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "M2SLAM: Visual SLAM with Memory Management for large-scale Environments"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/ethz-asl/nbvplanner",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49951260,
+                    "language": "C++",
+                    "last_commit": "2020-01-17T11:04:07Z",
+                    "owner": "ethz-asl",
+                    "repo": "nbvplanner",
+                    "stars": 450
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "next best view planner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/ydsf16/dre_slam",
+                  "description": "ROS kinetic, openCV 4.0, yolo v3, Ceres",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 166058567,
+                    "language": "C++",
+                    "last_commit": "2024-05-18T13:08:41Z",
+                    "owner": "ydsf16",
+                    "repo": "dre_slam",
+                    "stars": 181
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/BertaBescos/DynaSLAM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 122993589,
+                    "language": "C++",
+                    "last_commit": "2020-03-18T17:42:02Z",
+                    "owner": "BertaBescos",
+                    "repo": "DynaSLAM",
+                    "stars": 945
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RGB-D Visual SLAM"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/damienfir/android-ptam",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26393938,
+                    "language": "C",
+                    "last_commit": "2014-12-04T15:53:29Z",
+                    "owner": "damienfir",
+                    "repo": "android-ptam",
+                    "stars": 48
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PTAM Android :"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Augmented Reality"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/raulmur/ORB_SLAM",
+                  "description": "....",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31615024,
+                    "language": "C++",
+                    "last_commit": "2022-09-18T00:48:53Z",
+                    "owner": "raulmur",
+                    "repo": "ORB_SLAM",
+                    "stars": 1632
+                  }
+                }
+              ],
+              "description": "its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras https://github.com/raulmur/ORB_SLAM2\nits modification to work on IOS : https://github.com/Thunderbolt-sx/ORB_SLAM_iOS",
+              "node_type": "group",
+              "title": "ORB-SLAM: A Versatile and Accurate Monocular SLAM System"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 280608729,
+                    "language": "C++",
+                    "last_commit": "2024-07-24T08:41:52Z",
+                    "owner": "UZ-SLAMLab",
+                    "repo": "ORB_SLAM3",
+                    "stars": 8979
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/uzh-rpg/rpg_open_remode",
+                  "description": "... Probabilistic, Monocular Dense Reconstruction in Real Time",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40077742,
+                    "language": "C++",
+                    "last_commit": "2019-01-25T13:03:20Z",
+                    "owner": "uzh-rpg",
+                    "repo": "rpg_open_remode",
+                    "stars": 495
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "REMODE (REgularized MOnocular Depth Estimation)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/pizzoli/rpg_svo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47076461,
+                    "language": "C++",
+                    "last_commit": "2015-12-01T21:31:42Z",
+                    "owner": "pizzoli",
+                    "repo": "rpg_svo",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fast Semi-Direct Monocular Visual Odometry"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/tum-vision/lsd_slam",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23995982,
+                    "language": "C++",
+                    "last_commit": "2023-03-23T14:55:27Z",
+                    "owner": "tum-vision",
+                    "repo": "lsd_slam",
+                    "stars": 2724
+                  }
+                }
+              ],
+              "description": "modification over the original package to work with rolling chatter camera ( cheap webcams) https://github.com/FirefoxMetzger/lsd_slam The change is mentioned in this video : https://www.youtube.com/watch?v=TZRICW6R24o",
+              "node_type": "group",
+              "title": "LSD-SLAM: Large-Scale Direct Monocular SLAM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/srv/viso2",
+                  "description": "It is supported till ROS-indigo.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3774425,
+                    "language": "C++",
+                    "last_commit": "2026-02-03T08:36:39Z",
+                    "owner": "srv",
+                    "repo": "viso2",
+                    "stars": 253
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ROS wrapper for visolib"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/HKUST-Aerial-Robotics/VI-MEAN",
+                  "description": "with paper and video ICRA 2017 , rosbag as well.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92671265,
+                    "language": "C++",
+                    "last_commit": "2017-05-14T10:58:12Z",
+                    "owner": "HKUST-Aerial-Robotics",
+                    "repo": "VI-MEAN",
+                    "stars": 68
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visual-Inertia-fusion-based Monocular dEnse mAppiNg"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/shichaoy/cube_slam",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 154606317,
+                    "language": "C++",
+                    "last_commit": "2020-11-24T06:02:41Z",
+                    "owner": "shichaoy",
+                    "repo": "cube_slam",
+                    "stars": 885
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "monocular object pose SLAM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/jczarnowski/DeepFactors?fbclid=IwAR3tMyM_VisfjADs5pX3OHoxSU6w6MorupmvXZDr8c9m2MWLObdcnlBNNpg",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 234351716,
+                    "language": "C++",
+                    "last_commit": "2022-10-15T15:48:27Z",
+                    "owner": "jczarnowski",
+                    "repo": "DeepFactors",
+                    "stars": 640
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DeepFactors: Real-Time Probabilistic Dense Monocular SLAM"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/xiefei2929/ORB_SLAM3-RGBD-Inertial",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 284185257,
+                    "language": "C++",
+                    "last_commit": "2020-12-22T13:48:23Z",
+                    "owner": "xiefei2929",
+                    "repo": "ORB_SLAM3-RGBD-Inertial",
+                    "stars": 284
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ORB-SLAM RGBD + Inertial"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monocular SLAM"
+        }
+      ],
+      "title": "Visual SLAM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/johannes-graeter/limo",
+              "description": "Virtual machine with all the dependencies is ready.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125035290,
+                "language": "C++",
+                "last_commit": "2025-12-28T22:01:32Z",
+                "owner": "johannes-graeter",
+                "repo": "limo",
+                "stars": 893
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LIMO: Lidar-Monocular Visual Odometry"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/erik-nelson/blam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51559354,
+                "language": "Shell",
+                "last_commit": "2016-08-02T00:10:33Z",
+                "owner": "erik-nelson",
+                "repo": "blam",
+                "stars": 795
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LiDAR-based real-time 3D localization and mapping"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ethz-asl/segmatch",
+              "description": "A 3D segment based loop-closure algorithm | ROS ready",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68727369,
+                "language": "C++",
+                "last_commit": "2021-03-17T22:30:59Z",
+                "owner": "ethz-asl",
+                "repo": "segmap",
+                "stars": 1096
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "segmatch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/TixiaoShan/LIO-SAM",
+              "description": "real-time lidar-inertial odometry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276269866,
+                "language": "C++",
+                "last_commit": "2025-02-14T10:05:51Z",
+                "owner": "TixiaoShan",
+                "repo": "LIO-SAM",
+                "stars": 4892
+              }
+            }
+          ],
+          "description": "UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22 https://github.com/url-kaist/UV-SLAM",
+          "node_type": "group",
+          "title": "LIO-SAM"
+        }
+      ],
+      "title": "LIDAR based"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/JakobEngel/dso",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73256421,
+                "language": "C++",
+                "last_commit": "2024-02-23T16:15:26Z",
+                "owner": "JakobEngel",
+                "repo": "dso",
+                "stars": 2454
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dense Sparse odometry"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/alejocb/dpptam",
+              "description": "Dense Piecewise Planar Tracking and Mapping from a Monocular Sequence IROS 2015",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46748316,
+                "language": "C++",
+                "last_commit": "2017-04-17T00:04:56Z",
+                "owner": "alejocb",
+                "repo": "dpptam",
+                "stars": 220
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "monocular odometry algorithm"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/rubengooj/StVO-PL",
+              "description": "Stereo Visual Odometry by combining point and line segment features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56170703,
+                "language": "C++",
+                "last_commit": "2019-11-24T16:46:53Z",
+                "owner": "rubengooj",
+                "repo": "stvo-pl",
+                "stars": 221
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Stereo Visual odometry"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/johannes-graeter/momo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86579066,
+                "language": "C++",
+                "last_commit": "2022-09-12T09:37:49Z",
+                "owner": "johannes-graeter",
+                "repo": "momo",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monocular Motion Estimation on Manifolds"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Uehwan/SimVODIS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222082030,
+                "language": "Python",
+                "last_commit": "2021-03-21T07:06:36Z",
+                "owner": "Uehwan",
+                "repo": "SimVODIS",
+                "stars": 154
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SimVODIS Simultaneous Visual Odometry, Object Detection, and Instance Segmentation"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/KumarRobotics/msckf_vio",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112651426,
+                    "language": "C++",
+                    "last_commit": "2023-11-22T09:11:28Z",
+                    "owner": "KumarRobotics",
+                    "repo": "msckf_vio",
+                    "stars": 1968
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/HKUST-Aerial-Robotics/VINS-Mono",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91875325,
+                    "language": "C++",
+                    "last_commit": "2024-08-14T17:28:14Z",
+                    "owner": "HKUST-Aerial-Robotics",
+                    "repo": "VINS-Mono",
+                    "stars": 6008
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "A Robust and Versatile Monocular Visual-Inertial State Estimator"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/gaowenliang/vins_so",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 127255710,
+                    "language": "C++",
+                    "last_commit": "2018-09-11T04:19:38Z",
+                    "owner": "gaowenliang",
+                    "repo": "vins_so",
+                    "stars": 164
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "VINS modification for omnidirectional + Streo camera"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/JuanTarrio/rebvo",
+                  "description": "Specially targetted to embedded hardware.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51785337,
+                    "language": "Objective-C",
+                    "last_commit": "2020-10-16T20:55:34Z",
+                    "owner": "JuanTarrio",
+                    "repo": "rebvo",
+                    "stars": 273
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Realtime Edge Based Inertial Visual Odometry for a Monocular Camera"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/rpng/R-VIO",
+                  "description": "Monocular camera + 6 DOF IMU",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 170187321,
+                    "language": "C++",
+                    "last_commit": "2023-04-23T19:05:30Z",
+                    "owner": "rpng",
+                    "repo": "R-VIO",
+                    "stars": 901
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "robocentric visual-inertial odometry"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual Inertial odometry"
+        }
+      ],
+      "title": "Visual Odometry"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/danylaksono/Android-SfM-client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28658709,
+                "language": "Java",
+                "last_commit": "2012-08-27T13:12:10Z",
+                "owner": "danylaksono",
+                "repo": "Android-SfM-client",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android SFM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/tinghuiz/SfMLearner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89383667,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-10-26T05:58:09Z",
+                "owner": "tinghuiz",
+                "repo": "SfMLearner",
+                "stars": 2016
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unsupervised Learning of Depth and Ego-Motion from Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/drormoran/Equivariant-SFM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396863941,
+                "language": "Python",
+                "last_commit": "2023-11-20T12:06:24Z",
+                "owner": "drormoran",
+                "repo": "Equivariant-SFM",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deep Permutation Equivariant Structure from Motion"
+        }
+      ],
+      "title": "SFM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/jzubizarreta/dsm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181082592,
+                "language": "C++",
+                "last_commit": "2021-04-08T16:51:33Z",
+                "owner": "jzubizarreta",
+                "repo": "dsm",
+                "stars": 459
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Direct Sparse Mapping"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/tum-vision/fastfusion",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19941780,
+                "language": "C++",
+                "last_commit": "2016-06-23T14:23:00Z",
+                "owner": "tum-vision",
+                "repo": "fastfusion",
+                "stars": 573
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Volumetric 3D Mapping in Real-Time on a CPU"
+        }
+      ],
+      "title": "Mapping"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/knagara/SLAMwithCameraIMUforAndroid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34838646,
+                "language": "Java",
+                "last_commit": "2017-05-20T11:07:21Z",
+                "owner": "knagara",
+                "repo": "SLAMwithCameraIMUforAndroid",
+                "stars": 137
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SLAM with IMU on Android"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/HKUST-Aerial-Robotics/VINS-Mobile",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90478323,
+                "language": "C++",
+                "last_commit": "2019-05-30T05:13:08Z",
+                "owner": "HKUST-Aerial-Robotics",
+                "repo": "VINS-Mobile",
+                "stars": 1362
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IOS iphone 7 plus"
+        }
+      ],
+      "title": "Others :"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/youngguncho/awesome-slam-datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133256832,
+                "language": null,
+                "last_commit": "2024-12-13T04:29:23Z",
+                "owner": "youngguncho",
+                "repo": "awesome-slam-datasets",
+                "stars": 1944
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/AaltoVision/ADVIO",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141144240,
+                    "language": "Python",
+                    "last_commit": "2019-06-06T06:46:22Z",
+                    "owner": "AaltoVision",
+                    "repo": "ADVIO",
+                    "stars": 271
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Authentic Dataset for Visual-Inertial Odometry"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/uzh-rpg/rpg_trajectory_evaluation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142396410,
+                    "language": "Python",
+                    "last_commit": "2023-03-30T13:07:24Z",
+                    "owner": "uzh-rpg",
+                    "repo": "rpg_trajectory_evaluation",
+                    "stars": 1211
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Toolbox for quantitative trajectory evaluation of VO/VIO"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/mit-fast/FlightGoggles",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 87016651,
+                    "language": "C++",
+                    "last_commit": "2024-04-01T14:38:14Z",
+                    "owner": "mit-aera",
+                    "repo": "FlightGoggles",
+                    "stars": 442
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Photorealistic Simulator for VIO testing/benchmarking"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Curated List of datasets:"
+        }
+      ],
+      "title": "Datasets and benchmarking"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:02:06.305Z",
+    "last_updated": "2026-08-24T14:17:27.038Z",
     "original_repository": "marknabil/SFM-Visual-SLAM",
     "original_repository_id": 50433823,
     "original_repository_sha": "ef63386608d69ed54c4f10001e5f70eb7c62551a",
