@@ -7,7 +7,7 @@
 ##### GSLAM
 
 General SLAM Framework which supports feature based or direct method and different sensors including monocular camera, RGB-D sensors or any other input types can be handled.
-<https://github.com/zdzhaoyong/GSLAM> ⭐ 1,057 | 🐛 21 | 🌐 C++ | 📅 2020-04-01
+<https://github.com/zdzhaoyong/GSLAM> ⭐ 1,058 | 🐛 21 | 🌐 C++ | 📅 2020-04-01
 
 ##### OKVIS: Open Keyframe-based Visual-Inertial SLAM
 
@@ -19,7 +19,7 @@ General SLAM Framework which supports feature based or direct method and differe
 
 ##### S-PTAM: Stereo Parallel Tracking and Mapping
 
-<https://github.com/lrse/sptam> ⭐ 374 | 🐛 0 | 🌐 C++ | 📅 2020-05-14
+<https://github.com/lrse/sptam> ⭐ 375 | 🐛 0 | 🌐 C++ | 📅 2020-05-14
 
 ##### mcptam
 
@@ -80,7 +80,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### Dense Visual Odometry and SLAM (dvo\_slam)
 
-<https://github.com/tum-vision/dvo_slam> ⭐ 667 | 🐛 53 | 🌐 C++ | 📅 2016-09-21
+<https://github.com/tum-vision/dvo_slam> ⭐ 668 | 🐛 53 | 🌐 C++ | 📅 2016-09-21
 
 ##### Coslam: Collaborative visual slam in dynamic environments
 
@@ -111,7 +111,7 @@ Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features .
 ##### SceneLib2 - MonoSLAM open-source library
 
 from oxford university c++ SLAM\
-<https://github.com/hanmekim/SceneLib2> ⭐ 378 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
+<https://github.com/hanmekim/SceneLib2> ⭐ 379 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
 
 ##### next best view planner
 
@@ -143,14 +143,14 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 <https://github.com/raulmur/ORB_SLAM> ⭐ 1,632 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,219 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,221 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,976 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,977 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -168,7 +168,7 @@ no loop closure or bundle adjustment
 
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 
-<https://github.com/tum-vision/lsd_slam> ⭐ 2,721 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
+<https://github.com/tum-vision/lsd_slam> ⭐ 2,723 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
 
 modification over the original package to work with rolling chatter camera ( cheap webcams)
 <https://github.com/FirefoxMetzger/lsd_slam> ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2017-04-14
@@ -224,7 +224,7 @@ UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Map
 
 ##### Dense Sparse odometry
 
-<https://github.com/JakobEngel/dso> ⭐ 2,452 | 🐛 138 | 🌐 C++ | 📅 2024-02-23
+<https://github.com/JakobEngel/dso> ⭐ 2,454 | 🐛 138 | 🌐 C++ | 📅 2024-02-23
 
 ##### monocular odometry algorithm
 
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,659 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,663 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 232 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -274,7 +274,7 @@ Robust Visual Inertial Odometry
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,006 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,008 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -341,7 +341,7 @@ Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/vrabaud/sfm_toolbox> ⭐ 69 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,539 | 🐛 312 | 🌐 C++ | 📅 2025-12-17
+<https://github.com/openMVG/openMVG> ⭐ 6,540 | 🐛 312 | 🌐 C++ | 📅 2025-12-17
 
 collection of computer vision methods for solving geometric vision problems
 <https://github.com/laurentkneip/opengv> ⭐ 1,126 | 🐛 59 | 🌐 C++ | 📅 2023-06-07
@@ -359,7 +359,7 @@ its paper : <https://arxiv.org/pdf/1704.02672.pdf>
 
 ##### Direct Sparse Mapping
 
-<https://github.com/jzubizarreta/dsm> ⭐ 458 | 🐛 8 | 🌐 C++ | 📅 2021-04-08
+<https://github.com/jzubizarreta/dsm> ⭐ 459 | 🐛 8 | 🌐 C++ | 📅 2021-04-08
 
 ##### Volumetric 3D Mapping in Real-Time on a CPU
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
