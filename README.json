@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/unr-arl/rhem_planner",
+              "title": "ntnu-arl/rhem_planner",
               "description": null,
               "children": [],
               "repo_info": {
@@ -29,7 +29,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/lrse/sptam",
+              "title": "lrse/sptam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -51,7 +51,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/aharmat/mcptam",
+              "title": "aharmat/mcptam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -73,7 +73,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/davidmball/ratslam",
+              "title": "davidmball/ratslam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -95,7 +95,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/xdspacelab/openvslam",
+              "title": "xdspacelab/openvslam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -117,7 +117,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/berndpfrommer/tagslam",
+              "title": "berndpfrommer/tagslam",
               "description": "ROS ready, bag file available",
               "children": [],
               "repo_info": {
@@ -139,7 +139,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/izhengfan/se2clam",
+              "title": "izhengfan/se2clam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -163,7 +163,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MarianoJT88/Joint-VO-SF",
+                  "title": "MarianoJT88/Joint-VO-SF",
                   "description": "published in ICRA 2017",
                   "children": [],
                   "repo_info": {
@@ -185,7 +185,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/strasdat/ScaViSLAM/",
+                  "title": "strasdat/ScaViSLAM",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -200,7 +200,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/felixendres/rgbdslam_v2",
+                  "title": "felixendres/rgbdslam_v2",
                   "description": "ROS ready, It accompany a PHD thesis from TUM",
                   "children": [],
                   "repo_info": {
@@ -222,7 +222,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/tu-darmstadt-ros-pkg/hector_slam",
+                  "title": "tu-darmstadt-ros-pkg/hector_slam",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -244,7 +244,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/tum-vision/dvo_slam",
+                  "title": "tum-vision/dvo_slam",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -266,7 +266,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/danping/CoSLAM",
+                  "title": "danping/CoSLAM",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -288,7 +288,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/mp3guy/ElasticFusion",
+                  "title": "mp3guy/ElasticFusion",
                   "description": "... it has nice gui and dataset , paper and video too .",
                   "children": [],
                   "repo_info": {
@@ -310,7 +310,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/mp3guy/Kintinuous",
+                  "title": "mp3guy/Kintinuous",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -332,7 +332,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/dorian3d/RGBiD-SLAM",
+                  "title": "dorian3d/RGBiD-SLAM",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -354,7 +354,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/lifunudt/M2SLAM",
+                  "title": "lifunudt/M2SLAM",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -376,7 +376,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ethz-asl/nbvplanner",
+                  "title": "ethz-asl/nbvplanner",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -398,7 +398,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/ydsf16/dre_slam",
+                  "title": "ydsf16/dre_slam",
                   "description": "ROS kinetic, openCV 4.0, yolo v3, Ceres",
                   "children": [],
                   "repo_info": {
@@ -420,7 +420,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/BertaBescos/DynaSLAM",
+                  "title": "BertaBescos/DynaSLAM",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -449,7 +449,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/damienfir/android-ptam",
+                  "title": "damienfir/android-ptam",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -478,7 +478,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/raulmur/ORB_SLAM",
+                  "title": "raulmur/ORB_SLAM",
                   "description": "....",
                   "children": [],
                   "repo_info": {
@@ -500,7 +500,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+                  "title": "UZ-SLAMLab/ORB_SLAM3",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -522,7 +522,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/uzh-rpg/rpg_open_remode",
+                  "title": "uzh-rpg/rpg_open_remode",
                   "description": "... Probabilistic, Monocular Dense Reconstruction in Real Time",
                   "children": [],
                   "repo_info": {
@@ -544,7 +544,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/pizzoli/rpg_svo",
+                  "title": "pizzoli/rpg_svo",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -566,7 +566,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/tum-vision/lsd_slam",
+                  "title": "tum-vision/lsd_slam",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -588,7 +588,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/srv/viso2",
+                  "title": "srv/viso2",
                   "description": "It is supported till ROS-indigo.",
                   "children": [],
                   "repo_info": {
@@ -610,7 +610,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/HKUST-Aerial-Robotics/VI-MEAN",
+                  "title": "HKUST-Aerial-Robotics/VI-MEAN",
                   "description": "with paper and video ICRA 2017 , rosbag as well.",
                   "children": [],
                   "repo_info": {
@@ -632,7 +632,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/shichaoy/cube_slam",
+                  "title": "shichaoy/cube_slam",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -654,7 +654,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/jczarnowski/DeepFactors?fbclid=IwAR3tMyM_VisfjADs5pX3OHoxSU6w6MorupmvXZDr8c9m2MWLObdcnlBNNpg",
+                  "title": "jczarnowski/DeepFactors",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -676,7 +676,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/xiefei2929/ORB_SLAM3-RGBD-Inertial",
+                  "title": "xiefei2929/ORB_SLAM3-RGBD-Inertial",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -709,7 +709,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/johannes-graeter/limo",
+              "title": "johannes-graeter/limo",
               "description": "Virtual machine with all the dependencies is ready.",
               "children": [],
               "repo_info": {
@@ -731,7 +731,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/erik-nelson/blam",
+              "title": "erik-nelson/blam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -753,7 +753,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/ethz-asl/segmatch",
+              "title": "ethz-asl/segmap",
               "description": "A 3D segment based loop-closure algorithm | ROS ready",
               "children": [],
               "repo_info": {
@@ -775,7 +775,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/TixiaoShan/LIO-SAM",
+              "title": "TixiaoShan/LIO-SAM",
               "description": "real-time lidar-inertial odometry",
               "children": [],
               "repo_info": {
@@ -803,7 +803,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/JakobEngel/dso",
+              "title": "JakobEngel/dso",
               "description": null,
               "children": [],
               "repo_info": {
@@ -825,7 +825,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/alejocb/dpptam",
+              "title": "alejocb/dpptam",
               "description": "Dense Piecewise Planar Tracking and Mapping from a Monocular Sequence IROS 2015",
               "children": [],
               "repo_info": {
@@ -847,7 +847,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/rubengooj/StVO-PL",
+              "title": "rubengooj/stvo-pl",
               "description": "Stereo Visual Odometry by combining point and line segment features",
               "children": [],
               "repo_info": {
@@ -869,7 +869,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/johannes-graeter/momo",
+              "title": "johannes-graeter/momo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -891,7 +891,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Uehwan/SimVODIS",
+              "title": "Uehwan/SimVODIS",
               "description": null,
               "children": [],
               "repo_info": {
@@ -915,7 +915,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/KumarRobotics/msckf_vio",
+                  "title": "KumarRobotics/msckf_vio",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -937,7 +937,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/HKUST-Aerial-Robotics/VINS-Mono",
+                  "title": "HKUST-Aerial-Robotics/VINS-Mono",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -959,7 +959,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/gaowenliang/vins_so",
+                  "title": "gaowenliang/vins_so",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -981,7 +981,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/JuanTarrio/rebvo",
+                  "title": "JuanTarrio/rebvo",
                   "description": "Specially targetted to embedded hardware.",
                   "children": [],
                   "repo_info": {
@@ -1003,7 +1003,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/rpng/R-VIO",
+                  "title": "rpng/R-VIO",
                   "description": "Monocular camera + 6 DOF IMU",
                   "children": [],
                   "repo_info": {
@@ -1036,7 +1036,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/danylaksono/Android-SfM-client",
+              "title": "danylaksono/Android-SfM-client",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1058,7 +1058,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/tinghuiz/SfMLearner",
+              "title": "tinghuiz/SfMLearner",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1080,7 +1080,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/drormoran/Equivariant-SFM",
+              "title": "drormoran/Equivariant-SFM",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1108,7 +1108,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/jzubizarreta/dsm",
+              "title": "jzubizarreta/dsm",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1130,7 +1130,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/tum-vision/fastfusion",
+              "title": "tum-vision/fastfusion",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1158,7 +1158,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/knagara/SLAMwithCameraIMUforAndroid",
+              "title": "knagara/SLAMwithCameraIMUforAndroid",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1180,7 +1180,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/HKUST-Aerial-Robotics/VINS-Mobile",
+              "title": "HKUST-Aerial-Robotics/VINS-Mobile",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1208,7 +1208,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/youngguncho/awesome-slam-datasets",
+              "title": "youngguncho/awesome-slam-datasets",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1225,7 +1225,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/AaltoVision/ADVIO",
+                  "title": "AaltoVision/ADVIO",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1247,7 +1247,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/uzh-rpg/rpg_trajectory_evaluation",
+                  "title": "uzh-rpg/rpg_trajectory_evaluation",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1269,7 +1269,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/mit-fast/FlightGoggles",
+                  "title": "mit-aera/FlightGoggles",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:54:29.892Z",
+    "last_updated": "2026-08-25T06:11:22.375Z",
     "original_repository": "marknabil/SFM-Visual-SLAM",
     "original_repository_id": 50433823,
     "original_repository_sha": "ef63386608d69ed54c4f10001e5f70eb7c62551a",
