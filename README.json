@@ -510,7 +510,7 @@
                     "last_commit": "2024-07-24T08:41:52Z",
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 8979
+                    "stars": 8981
                   }
                 }
               ],
@@ -785,7 +785,7 @@
                 "last_commit": "2025-02-14T10:05:51Z",
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4892
+                "stars": 4893
               }
             }
           ],
@@ -925,7 +925,7 @@
                     "last_commit": "2023-11-22T09:11:28Z",
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
-                    "stars": 1968
+                    "stars": 1969
                   }
                 }
               ],
@@ -1190,7 +1190,7 @@
                 "last_commit": "2019-05-30T05:13:08Z",
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mobile",
-                "stars": 1362
+                "stars": 1363
               }
             }
           ],
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:27.038Z",
+    "last_updated": "2026-08-25T04:54:29.892Z",
     "original_repository": "marknabil/SFM-Visual-SLAM",
     "original_repository_id": 50433823,
     "original_repository_sha": "ef63386608d69ed54c4f10001e5f70eb7c62551a",
