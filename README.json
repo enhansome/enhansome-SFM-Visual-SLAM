@@ -173,7 +173,7 @@
                     "last_commit": "2017-10-04T07:54:41Z",
                     "owner": "MarianoJT88",
                     "repo": "Joint-VO-SF",
-                    "stars": 104
+                    "stars": 105
                   }
                 }
               ],
@@ -254,7 +254,7 @@
                     "last_commit": "2016-09-21T19:57:35Z",
                     "owner": "tum-vision",
                     "repo": "dvo_slam",
-                    "stars": 668
+                    "stars": 669
                   }
                 }
               ],
@@ -510,7 +510,7 @@
                     "last_commit": "2024-07-24T08:41:52Z",
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 8981
+                    "stars": 8985
                   }
                 }
               ],
@@ -785,7 +785,7 @@
                 "last_commit": "2025-02-14T10:05:51Z",
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4893
+                "stars": 4894
               }
             }
           ],
@@ -947,7 +947,7 @@
                     "last_commit": "2024-08-14T17:28:14Z",
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6008
+                    "stars": 6011
                   }
                 }
               ],
@@ -1257,7 +1257,7 @@
                     "last_commit": "2023-03-30T13:07:24Z",
                     "owner": "uzh-rpg",
                     "repo": "rpg_trajectory_evaluation",
-                    "stars": 1211
+                    "stars": 1212
                   }
                 }
               ],
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:22.375Z",
+    "last_updated": "2026-08-26T04:56:38.440Z",
     "original_repository": "marknabil/SFM-Visual-SLAM",
     "original_repository_id": 50433823,
     "original_repository_sha": "ef63386608d69ed54c4f10001e5f70eb7c62551a",
