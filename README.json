@@ -510,7 +510,7 @@
                     "last_commit": "2024-07-24T08:41:52Z",
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 8985
+                    "stars": 8987
                   }
                 }
               ],
@@ -785,7 +785,7 @@
                 "last_commit": "2025-02-14T10:05:51Z",
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4894
+                "stars": 4895
               }
             }
           ],
@@ -947,7 +947,7 @@
                     "last_commit": "2024-08-14T17:28:14Z",
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6011
+                    "stars": 6012
                   }
                 }
               ],
@@ -1068,7 +1068,7 @@
                 "last_commit": "2021-10-26T05:58:09Z",
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
-                "stars": 2016
+                "stars": 2017
               }
             }
           ],
@@ -1297,9 +1297,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:56:38.440Z",
-    "original_repository": "marknabil/SFM-Visual-SLAM",
-    "original_repository_id": 50433823,
+    "last_updated": "2026-08-27T12:04:54.913Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 50433823,
+      "language": null,
+      "last_commit": "2024-04-28T17:12:51Z",
+      "owner": "marknabil",
+      "repo": "SFM-Visual-SLAM",
+      "stars": 778
+    },
     "original_repository_sha": "ef63386608d69ed54c4f10001e5f70eb7c62551a",
     "enhanced_repository": "enhansome/enhansome-SFM-Visual-SLAM",
     "enhanced_repository_description": null,
