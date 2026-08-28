@@ -18,7 +18,8 @@
                 "owner": "ntnu-arl",
                 "repo": "rhem_planner",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "lrse",
                 "repo": "sptam",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "aharmat",
                 "repo": "mcptam",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": "MCPTAM is a set of ROS nodes for running Real-time 3D Visual Simultaneous Localization and Mapping (SLAM) using Multi-Camera Clusters. It includes tools for calibrating both the intrinsic and extrinsic parameters of the individual cameras within the rigid camera rig.",
@@ -84,7 +87,8 @@
                 "owner": "davidmball",
                 "repo": "ratslam",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -106,7 +110,8 @@
                 "owner": "xdspacelab",
                 "repo": "openvslam",
                 "stars": 2976
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -127,8 +132,9 @@
                 "last_commit": "2026-01-08T22:59:19Z",
                 "owner": "berndpfrommer",
                 "repo": "tagslam",
-                "stars": 369
-              }
+                "stars": 370
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -150,7 +156,8 @@
                 "owner": "izhengfan",
                 "repo": "se2clam",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -174,7 +181,8 @@
                     "owner": "MarianoJT88",
                     "repo": "Joint-VO-SF",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -196,7 +204,8 @@
                     "owner": "strasdat",
                     "repo": "ScaViSLAM",
                     "stars": 342
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 },
                 {
                   "node_type": "item",
@@ -211,7 +220,8 @@
                     "owner": "felixendres",
                     "repo": "rgbdslam_v2",
                     "stars": 984
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -233,7 +243,8 @@
                     "owner": "tu-darmstadt-ros-pkg",
                     "repo": "hector_slam",
                     "stars": 741
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -255,7 +266,8 @@
                     "owner": "tum-vision",
                     "repo": "dvo_slam",
                     "stars": 669
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -277,7 +289,8 @@
                     "owner": "danping",
                     "repo": "CoSLAM",
                     "stars": 291
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -298,8 +311,9 @@
                     "last_commit": "2025-08-03T10:04:09Z",
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1927
-                  }
+                    "stars": 1928
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -321,7 +335,8 @@
                     "owner": "mp3guy",
                     "repo": "Kintinuous",
                     "stars": 954
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -343,7 +358,8 @@
                     "owner": "dorian3d",
                     "repo": "RGBiD-SLAM",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -365,7 +381,8 @@
                     "owner": "lifunudt",
                     "repo": "M2SLAM",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -387,7 +404,8 @@
                     "owner": "ethz-asl",
                     "repo": "nbvplanner",
                     "stars": 450
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -409,7 +427,8 @@
                     "owner": "ydsf16",
                     "repo": "dre_slam",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -431,7 +450,8 @@
                     "owner": "BertaBescos",
                     "repo": "DynaSLAM",
                     "stars": 945
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -460,7 +480,8 @@
                     "owner": "damienfir",
                     "repo": "android-ptam",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -489,7 +510,8 @@
                     "owner": "raulmur",
                     "repo": "ORB_SLAM",
                     "stars": 1632
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": "its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras https://github.com/raulmur/ORB_SLAM2\nits modification to work on IOS : https://github.com/Thunderbolt-sx/ORB_SLAM_iOS",
@@ -510,8 +532,9 @@
                     "last_commit": "2024-07-24T08:41:52Z",
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 8987
-                  }
+                    "stars": 8991
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -533,7 +556,8 @@
                     "owner": "uzh-rpg",
                     "repo": "rpg_open_remode",
                     "stars": 495
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -555,7 +579,8 @@
                     "owner": "pizzoli",
                     "repo": "rpg_svo",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -577,7 +602,8 @@
                     "owner": "tum-vision",
                     "repo": "lsd_slam",
                     "stars": 2724
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": "modification over the original package to work with rolling chatter camera ( cheap webcams) https://github.com/FirefoxMetzger/lsd_slam The change is mentioned in this video : https://www.youtube.com/watch?v=TZRICW6R24o",
@@ -599,7 +625,8 @@
                     "owner": "srv",
                     "repo": "viso2",
                     "stars": 253
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -621,7 +648,8 @@
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VI-MEAN",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -643,7 +671,8 @@
                     "owner": "shichaoy",
                     "repo": "cube_slam",
                     "stars": 885
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -665,7 +694,8 @@
                     "owner": "jczarnowski",
                     "repo": "DeepFactors",
                     "stars": 640
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -687,7 +717,8 @@
                     "owner": "xiefei2929",
                     "repo": "ORB_SLAM3-RGBD-Inertial",
                     "stars": 284
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -720,7 +751,8 @@
                 "owner": "johannes-graeter",
                 "repo": "limo",
                 "stars": 893
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -742,7 +774,8 @@
                 "owner": "erik-nelson",
                 "repo": "blam",
                 "stars": 795
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -764,7 +797,8 @@
                 "owner": "ethz-asl",
                 "repo": "segmap",
                 "stars": 1096
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -785,8 +819,9 @@
                 "last_commit": "2025-02-14T10:05:51Z",
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4895
-              }
+                "stars": 4899
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": "UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22 https://github.com/url-kaist/UV-SLAM",
@@ -814,7 +849,8 @@
                 "owner": "JakobEngel",
                 "repo": "dso",
                 "stars": 2454
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -836,7 +872,8 @@
                 "owner": "alejocb",
                 "repo": "dpptam",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -858,7 +895,8 @@
                 "owner": "rubengooj",
                 "repo": "stvo-pl",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -880,7 +918,8 @@
                 "owner": "johannes-graeter",
                 "repo": "momo",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -902,7 +941,8 @@
                 "owner": "Uehwan",
                 "repo": "SimVODIS",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -926,7 +966,8 @@
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
                     "stars": 1969
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -947,8 +988,9 @@
                     "last_commit": "2024-08-14T17:28:14Z",
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6012
-                  }
+                    "stars": 6013
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -970,7 +1012,8 @@
                     "owner": "gaowenliang",
                     "repo": "vins_so",
                     "stars": 164
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -992,7 +1035,8 @@
                     "owner": "JuanTarrio",
                     "repo": "rebvo",
                     "stars": 273
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -1014,7 +1058,8 @@
                     "owner": "rpng",
                     "repo": "R-VIO",
                     "stars": 901
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -1047,7 +1092,8 @@
                 "owner": "danylaksono",
                 "repo": "Android-SfM-client",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -1069,7 +1115,8 @@
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
                 "stars": 2017
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -1091,7 +1138,8 @@
                 "owner": "drormoran",
                 "repo": "Equivariant-SFM",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -1119,7 +1167,8 @@
                 "owner": "jzubizarreta",
                 "repo": "dsm",
                 "stars": 459
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -1141,7 +1190,8 @@
                 "owner": "tum-vision",
                 "repo": "fastfusion",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -1169,7 +1219,8 @@
                 "owner": "knagara",
                 "repo": "SLAMwithCameraIMUforAndroid",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -1191,7 +1242,8 @@
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mobile",
                 "stars": 1363
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             }
           ],
           "description": null,
@@ -1219,7 +1271,8 @@
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
                 "stars": 1944
-              }
+              },
+              "first_seen": "2026-08-28T16:39:43.735Z"
             },
             {
               "children": [
@@ -1236,7 +1289,8 @@
                     "owner": "AaltoVision",
                     "repo": "ADVIO",
                     "stars": 271
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -1258,7 +1312,8 @@
                     "owner": "uzh-rpg",
                     "repo": "rpg_trajectory_evaluation",
                     "stars": 1212
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -1280,7 +1335,8 @@
                     "owner": "mit-aera",
                     "repo": "FlightGoggles",
                     "stars": 442
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:39:43.735Z"
                 }
               ],
               "description": null,
@@ -1297,7 +1353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:15:40.771Z",
+    "last_updated": "2026-08-28T16:39:43.735Z",
     "original_repository_info": {
       "archived": false,
       "id": 50433823,
