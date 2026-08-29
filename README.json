@@ -133,7 +133,7 @@
                 "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2976,
+                "stars": 2975,
                 "topics": [
                   "computer-vision",
                   "fisheye",
@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 8992,
+                    "stars": 8991,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:51.246Z",
+    "last_updated": "2026-08-29T11:06:18.266Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
