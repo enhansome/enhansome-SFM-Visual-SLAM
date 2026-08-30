@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 8991,
+                    "stars": 8992,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:06:18.266Z",
+    "last_updated": "2026-08-30T09:57:10.065Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
