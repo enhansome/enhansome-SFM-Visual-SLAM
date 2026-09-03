@@ -171,7 +171,7 @@
                 "open_issues": 0,
                 "owner": "berndpfrommer",
                 "repo": "tagslam",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -286,7 +286,7 @@
                     "open_issues": 63,
                     "owner": "felixendres",
                     "repo": "rgbdslam_v2",
-                    "stars": 984,
+                    "stars": 983,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1928,
+                    "stars": 1927,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9015,
+                    "stars": 9021,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1086,7 +1086,7 @@
                 "open_issues": 138,
                 "owner": "JakobEngel",
                 "repo": "dso",
-                "stars": 2454,
+                "stars": 2453,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 12,
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
-                    "stars": 1970,
+                    "stars": 1971,
                     "topics": [
                       "ros",
                       "stereo-vision",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6017,
+                    "stars": 6016,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:47:32.739Z",
+    "last_updated": "2026-09-03T08:56:52.671Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
