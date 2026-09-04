@@ -585,7 +585,7 @@
                     "open_issues": 64,
                     "owner": "BertaBescos",
                     "repo": "DynaSLAM",
-                    "stars": 945,
+                    "stars": 946,
                     "topics": [
                       "dynamic",
                       "inpainting",
@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9021,
+                    "stars": 9023,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -957,7 +957,7 @@
                 "open_issues": 6,
                 "owner": "johannes-graeter",
                 "repo": "limo",
-                "stars": 893,
+                "stars": 894,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4903,
+                "stars": 4904,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:56:52.671Z",
+    "last_updated": "2026-09-04T08:51:33.931Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
