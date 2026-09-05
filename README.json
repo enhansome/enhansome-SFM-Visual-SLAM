@@ -314,7 +314,7 @@
                     "open_issues": 26,
                     "owner": "tu-darmstadt-ros-pkg",
                     "repo": "hector_slam",
-                    "stars": 741,
+                    "stars": 742,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -522,7 +522,7 @@
                     "open_issues": 18,
                     "owner": "ethz-asl",
                     "repo": "nbvplanner",
-                    "stars": 450,
+                    "stars": 451,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9023,
+                    "stars": 9026,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4904,
+                "stars": 4903,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1238,7 +1238,7 @@
                     "open_issues": 12,
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
-                    "stars": 1971,
+                    "stars": 1972,
                     "topics": [
                       "ros",
                       "stereo-vision",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:51:33.931Z",
+    "last_updated": "2026-09-05T08:21:45.490Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
