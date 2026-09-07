@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9030,
+                    "stars": 9033,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -860,7 +860,7 @@
                     "open_issues": 35,
                     "owner": "shichaoy",
                     "repo": "cube_slam",
-                    "stars": 885,
+                    "stars": 886,
                     "topics": [
                       "slam"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4904,
+                "stars": 4906,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6019,
+                    "stars": 6020,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:40:28.928Z",
+    "last_updated": "2026-09-07T09:21:46.432Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
