@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9054,
+                    "stars": 9058,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -890,7 +890,7 @@
                     "open_issues": 7,
                     "owner": "jczarnowski",
                     "repo": "DeepFactors",
-                    "stars": 640,
+                    "stars": 641,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4910,
+                "stars": 4911,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1238,7 +1238,7 @@
                     "open_issues": 12,
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
-                    "stars": 1975,
+                    "stars": 1973,
                     "topics": [
                       "ros",
                       "stereo-vision",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6027,
+                    "stars": 6026,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1637,7 +1637,7 @@
                 "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1660,7 +1660,7 @@
                     "open_issues": 11,
                     "owner": "AaltoVision",
                     "repo": "ADVIO",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": [
                       "benchmarking",
                       "computer-vision",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:57:22.915Z",
+    "last_updated": "2026-09-11T08:55:51.739Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
