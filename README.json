@@ -690,7 +690,7 @@
                     "open_issues": 571,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9058,
+                    "stars": 9060,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6026,
+                    "stars": 6027,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:55:51.739Z",
+    "last_updated": "2026-09-12T08:38:58.933Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
