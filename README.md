@@ -39,7 +39,7 @@ visual place recognition algorithm
 ##### maplab
 
 An Open Framework for Research in Visual-inertial Mapping and Localization
-<https://github.com/ethz-asl/maplab> ⭐ 2,873 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
+<https://github.com/ethz-asl/maplab> ⭐ 2,874 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
 from Roland Siegwart
 
 ##### OpenVSLAM: Versatile Visual SLAM Framework
@@ -76,7 +76,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### SLAM in unstructed environments
 
-<https://github.com/tu-darmstadt-ros-pkg/hector_slam> ⭐ 743 | 🐛 26 | 🌐 C++ | 📅 2026-06-10
+<https://github.com/tu-darmstadt-ros-pkg/hector_slam> ⭐ 744 | 🐛 26 | 🌐 C++ | 📅 2026-06-10
 
 ##### Dense Visual Odometry and SLAM (dvo\_slam)
 
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,078 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,081 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -176,7 +176,7 @@ The change is mentioned in this video : <https://www.youtube.com/watch?v=TZRICW6
 
 ##### ROS wrapper for visolib
 
-<https://github.com/srv/viso2> ⭐ 253 | 🐛 17 | 🌐 C++ | 📅 2026-02-03
+<https://github.com/srv/viso2> ⭐ 254 | 🐛 17 | 🌐 C++ | 📅 2026-02-03
 It is supported till ROS-indigo.
 
 ##### Visual-Inertia-fusion-based Monocular dEnse mAppiNg
@@ -214,7 +214,7 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,919 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,921 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,725 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,728 | 🐛 135 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 232 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -274,7 +274,7 @@ Robust Visual Inertial Odometry
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,035 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,036 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -287,7 +287,7 @@ Specially targetted to embedded hardware.
 
 ##### robocentric visual-inertial odometry
 
-<https://github.com/rpng/R-VIO> ⭐ 901 | 🐛 5 | 🌐 C++ | 📅 2023-04-23
+<https://github.com/rpng/R-VIO> ⭐ 902 | 🐛 5 | 🌐 C++ | 📅 2023-04-23
 Monocular camera + 6 DOF IMU
 
 ## SFM
@@ -424,7 +424,7 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 
 ##### Toolbox for quantitative trajectory evaluation of VO/VIO
 
-<https://github.com/uzh-rpg/rpg_trajectory_evaluation> ⭐ 1,213 | 🐛 39 | 🌐 Python | 📅 2023-03-30
+<https://github.com/uzh-rpg/rpg_trajectory_evaluation> ⭐ 1,214 | 🐛 39 | 🌐 Python | 📅 2023-03-30
 
 ##### Photorealistic Simulator for VIO testing/benchmarking
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
