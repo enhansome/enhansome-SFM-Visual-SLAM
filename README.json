@@ -133,7 +133,7 @@
                 "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2975,
+                "stars": 2976,
                 "topics": [
                   "computer-vision",
                   "fisheye",
@@ -585,7 +585,7 @@
                     "open_issues": 64,
                     "owner": "BertaBescos",
                     "repo": "DynaSLAM",
-                    "stars": 946,
+                    "stars": 947,
                     "topics": [
                       "dynamic",
                       "inpainting",
@@ -690,7 +690,7 @@
                     "open_issues": 572,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9085,
+                    "stars": 9087,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4923,
+                "stars": 4925,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6036,
+                    "stars": 6037,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:48:47.000Z",
+    "last_updated": "2026-09-20T09:17:41.160Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
