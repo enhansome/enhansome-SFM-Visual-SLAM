@@ -690,7 +690,7 @@
                     "open_issues": 572,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9087,
+                    "stars": 9091,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4925,
+                "stars": 4927,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:17:41.160Z",
+    "last_updated": "2026-09-21T09:57:05.441Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
