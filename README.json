@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1927,
+                    "stars": 1928,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -690,7 +690,7 @@
                     "open_issues": 572,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9096,
+                    "stars": 9097,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4932,
+                "stars": 4933,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6039,
+                    "stars": 6041,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1599,7 +1599,7 @@
                 "open_issues": 63,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mobile",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": [
                   "state-estimation",
                   "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:18:50.860Z",
+    "last_updated": "2026-09-23T09:19:16.312Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
