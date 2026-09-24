@@ -522,7 +522,7 @@
                     "open_issues": 18,
                     "owner": "ethz-asl",
                     "repo": "nbvplanner",
-                    "stars": 451,
+                    "stars": 452,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -585,7 +585,7 @@
                     "open_issues": 64,
                     "owner": "BertaBescos",
                     "repo": "DynaSLAM",
-                    "stars": 947,
+                    "stars": 948,
                     "topics": [
                       "dynamic",
                       "inpainting",
@@ -690,7 +690,7 @@
                     "open_issues": 572,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9097,
+                    "stars": 9104,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -776,7 +776,7 @@
                     "open_issues": 240,
                     "owner": "tum-vision",
                     "repo": "lsd_slam",
-                    "stars": 2727,
+                    "stars": 2728,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4933,
+                "stars": 4935,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6041,
+                    "stars": 6044,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:19:16.312Z",
+    "last_updated": "2026-09-24T09:19:11.990Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
