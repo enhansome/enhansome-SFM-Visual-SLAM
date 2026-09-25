@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,104 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,107 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -200,7 +200,7 @@ with paper and video ICRA 2017 , rosbag as well.
 
 ##### LIMO: Lidar-Monocular Visual Odometry
 
-<https://github.com/johannes-graeter/limo> ⭐ 895 | 🐛 6 | 🌐 C++ | 📅 2025-12-28
+<https://github.com/johannes-graeter/limo> ⭐ 896 | 🐛 6 | 🌐 C++ | 📅 2025-12-28
 Virtual machine with all the dependencies is ready.
 
 ##### LiDAR-based real-time 3D localization and mapping
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,742 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,743 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 233 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -373,7 +373,7 @@ its paper : <https://arxiv.org/pdf/1704.02672.pdf>
 
 ##### IOS iphone 7 plus
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,364 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,365 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
 
 ##### Matlab
 
@@ -467,8 +467,8 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 ## Another Curated list
 
 for SFM, 3D reconstruction and V-SLAM
-<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,424 | 🐛 6 | 📅 2021-10-12
+<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,425 | 🐛 6 | 📅 2021-10-12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

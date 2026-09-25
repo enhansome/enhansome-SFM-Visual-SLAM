@@ -687,10 +687,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2024-07-24T08:41:52Z",
-                    "open_issues": 572,
+                    "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9104,
+                    "stars": 9107,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -957,7 +957,7 @@
                 "open_issues": 6,
                 "owner": "johannes-graeter",
                 "repo": "limo",
-                "stars": 895,
+                "stars": 896,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1599,7 +1599,7 @@
                 "open_issues": 63,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mobile",
-                "stars": 1364,
+                "stars": 1365,
                 "topics": [
                   "state-estimation",
                   "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:19:11.990Z",
+    "last_updated": "2026-09-25T09:37:08.514Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
