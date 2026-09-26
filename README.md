@@ -25,7 +25,7 @@ General SLAM Framework which supports feature based or direct method and differe
 
 MCPTAM is a set of ROS nodes for running Real-time 3D Visual Simultaneous Localization and Mapping (SLAM) using Multi-Camera Clusters. It includes tools for calibrating both the intrinsic and extrinsic parameters of the individual cameras within the rigid camera rig.
 
-<https://github.com/aharmat/mcptam> ⭐ 166 | 🐛 11 | 🌐 C++ | 📅 2017-03-08
+<https://github.com/aharmat/mcptam> ⭐ 165 | 🐛 11 | 🌐 C++ | 📅 2017-03-08
 
 ##### FAB-MAP
 
@@ -48,7 +48,7 @@ from Roland Siegwart
 
 ##### SLAM with Apriltag
 
-<https://github.com/berndpfrommer/tagslam> ⭐ 373 | 🐛 0 | 🌐 C++ | 📅 2026-01-08
+<https://github.com/berndpfrommer/tagslam> ⭐ 374 | 🐛 0 | 🌐 C++ | 📅 2026-01-08
 ROS ready, bag file available
 
 ##### SE2 SLAM fusing odom and Vision
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,107 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,110 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -282,7 +282,7 @@ Robust Visual Inertial Odometry
 
 ##### Realtime Edge Based Inertial Visual Odometry for a Monocular Camera
 
-<https://github.com/JuanTarrio/rebvo> ⭐ 273 | 🐛 11 | 🌐 Objective-C | 📅 2020-10-16
+<https://github.com/JuanTarrio/rebvo> ⭐ 274 | 🐛 11 | 🌐 Objective-C | 📅 2020-10-16
 Specially targetted to embedded hardware.
 
 ##### robocentric visual-inertial odometry
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,800 | 🐛 232 | 🌐 Python | 📅 2026-09-09
+<https://github.com/mapillary/OpenSfM> ⭐ 3,801 | 🐛 232 | 🌐 Python | 📅 2026-09-09
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -341,7 +341,7 @@ Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/vrabaud/sfm_toolbox> ⭐ 69 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,559 | 🐛 311 | 🌐 C++ | 📅 2026-08-30
+<https://github.com/openMVG/openMVG> ⭐ 6,560 | 🐛 311 | 🌐 C++ | 📅 2026-08-30
 
 collection of computer vision methods for solving geometric vision problems
 <https://github.com/laurentkneip/opengv> ⭐ 1,131 | 🐛 59 | 🌐 C++ | 📅 2023-06-07
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

@@ -77,7 +77,7 @@
                 "open_issues": 11,
                 "owner": "aharmat",
                 "repo": "mcptam",
-                "stars": 166,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -171,7 +171,7 @@
                 "open_issues": 0,
                 "owner": "berndpfrommer",
                 "repo": "tagslam",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9107,
+                    "stars": 9110,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1336,7 +1336,7 @@
                     "open_issues": 11,
                     "owner": "JuanTarrio",
                     "repo": "rebvo",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:37:08.514Z",
+    "last_updated": "2026-09-26T09:21:45.329Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
