@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1928,
+                    "stars": 1929,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9112,
+                    "stars": 9117,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4934,
+                "stars": 4935,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1086,7 +1086,7 @@
                 "open_issues": 138,
                 "owner": "JakobEngel",
                 "repo": "dso",
-                "stars": 2457,
+                "stars": 2458,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1142,7 +1142,7 @@
                 "open_issues": 13,
                 "owner": "rubengooj",
                 "repo": "stvo-pl",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6046,
+                    "stars": 6047,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:00:46.366Z",
+    "last_updated": "2026-09-28T10:55:30.084Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
