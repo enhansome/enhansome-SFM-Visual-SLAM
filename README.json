@@ -171,7 +171,7 @@
                 "open_issues": 0,
                 "owner": "berndpfrommer",
                 "repo": "tagslam",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1929,
+                    "stars": 1930,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9117,
+                    "stars": 9120,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -776,7 +776,7 @@
                     "open_issues": 240,
                     "owner": "tum-vision",
                     "repo": "lsd_slam",
-                    "stars": 2728,
+                    "stars": 2729,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1086,7 +1086,7 @@
                 "open_issues": 138,
                 "owner": "JakobEngel",
                 "repo": "dso",
-                "stars": 2458,
+                "stars": 2459,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1238,7 +1238,7 @@
                     "open_issues": 12,
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
-                    "stars": 1973,
+                    "stars": 1975,
                     "topics": [
                       "ros",
                       "stereo-vision",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6047,
+                    "stars": 6048,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1693,7 +1693,7 @@
                     "open_issues": 39,
                     "owner": "uzh-rpg",
                     "repo": "rpg_trajectory_evaluation",
-                    "stars": 1214,
+                    "stars": 1215,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:55:30.084Z",
+    "last_updated": "2026-09-29T10:41:53.902Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
