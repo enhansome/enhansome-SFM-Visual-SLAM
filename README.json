@@ -522,7 +522,7 @@
                     "open_issues": 18,
                     "owner": "ethz-asl",
                     "repo": "nbvplanner",
-                    "stars": 452,
+                    "stars": 453,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9123,
+                    "stars": 9122,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4935,
+                "stars": 4936,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:30:04.324Z",
+    "last_updated": "2026-10-01T10:57:54.010Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
