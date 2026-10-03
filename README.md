@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,804 | 🐛 232 | 🌐 Python | 📅 2026-10-02
+<https://github.com/mapillary/OpenSfM> ⭐ 3,805 | 🐛 232 | 🌐 Python | 📅 2026-10-02
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -373,7 +373,7 @@ its paper : <https://arxiv.org/pdf/1704.02672.pdf>
 
 ##### IOS iphone 7 plus
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,365 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,366 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
 
 ##### Matlab
 

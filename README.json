@@ -1599,7 +1599,7 @@
                 "open_issues": 63,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mobile",
-                "stars": 1365,
+                "stars": 1366,
                 "topics": [
                   "state-estimation",
                   "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:39.423Z",
+    "last_updated": "2026-10-03T09:52:48.667Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
