@@ -39,7 +39,7 @@ visual place recognition algorithm
 ##### maplab
 
 An Open Framework for Research in Visual-inertial Mapping and Localization
-<https://github.com/ethz-asl/maplab> ⭐ 2,878 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
+<https://github.com/ethz-asl/maplab> ⭐ 2,879 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
 from Roland Siegwart
 
 ##### OpenVSLAM: Versatile Visual SLAM Framework
@@ -270,7 +270,7 @@ Robust Visual Inertial Odometry
 
 ##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,976 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
+<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,975 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
@@ -287,7 +287,7 @@ Specially targetted to embedded hardware.
 
 ##### robocentric visual-inertial odometry
 
-<https://github.com/rpng/R-VIO> ⭐ 902 | 🐛 5 | 🌐 C++ | 📅 2023-04-23
+<https://github.com/rpng/R-VIO> ⭐ 901 | 🐛 5 | 🌐 C++ | 📅 2023-04-23
 Monocular camera + 6 DOF IMU
 
 ## SFM
@@ -424,11 +424,11 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 
 ##### Toolbox for quantitative trajectory evaluation of VO/VIO
 
-<https://github.com/uzh-rpg/rpg_trajectory_evaluation> ⭐ 1,215 | 🐛 39 | 🌐 Python | 📅 2023-03-30
+<https://github.com/uzh-rpg/rpg_trajectory_evaluation> ⭐ 1,214 | 🐛 39 | 🌐 Python | 📅 2023-03-30
 
 ##### Photorealistic Simulator for VIO testing/benchmarking
 
-<https://github.com/mit-fast/FlightGoggles> ⭐ 444 | 🐛 22 | 🌐 C++ | 📅 2024-04-01
+<https://github.com/mit-fast/FlightGoggles> ⭐ 443 | 🐛 22 | 🌐 C++ | 📅 2024-04-01
 
 # Machine Learning/ Deep learning based
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

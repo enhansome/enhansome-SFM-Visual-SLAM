@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "ntnu-arl/rhem_planner",
-              "description": null,
+              "description": "ntnu-arl/rhem_planner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "lrse/sptam",
-              "description": null,
+              "description": "lrse/sptam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -64,7 +64,7 @@
             {
               "node_type": "item",
               "title": "aharmat/mcptam",
-              "description": null,
+              "description": "aharmat/mcptam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "davidmball/ratslam",
-              "description": null,
+              "description": "davidmball/ratslam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "xdspacelab/openvslam",
-              "description": null,
+              "description": "xdspacelab/openvslam",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -186,7 +186,7 @@
             {
               "node_type": "item",
               "title": "izhengfan/se2clam",
-              "description": null,
+              "description": "izhengfan/se2clam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -252,7 +252,7 @@
                 {
                   "node_type": "item",
                   "title": "strasdat/ScaViSLAM",
-                  "description": null,
+                  "description": "strasdat/ScaViSLAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -301,7 +301,7 @@
                 {
                   "node_type": "item",
                   "title": "tu-darmstadt-ros-pkg/hector_slam",
-                  "description": null,
+                  "description": "tu-darmstadt-ros-pkg/hector_slam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -329,7 +329,7 @@
                 {
                   "node_type": "item",
                   "title": "tum-vision/dvo_slam",
-                  "description": null,
+                  "description": "tum-vision/dvo_slam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -357,7 +357,7 @@
                 {
                   "node_type": "item",
                   "title": "danping/CoSLAM",
-                  "description": null,
+                  "description": "danping/CoSLAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -417,7 +417,7 @@
                 {
                   "node_type": "item",
                   "title": "mp3guy/Kintinuous",
-                  "description": null,
+                  "description": "mp3guy/Kintinuous",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -449,7 +449,7 @@
                 {
                   "node_type": "item",
                   "title": "dorian3d/RGBiD-SLAM",
-                  "description": null,
+                  "description": "dorian3d/RGBiD-SLAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -477,7 +477,7 @@
                 {
                   "node_type": "item",
                   "title": "lifunudt/M2SLAM",
-                  "description": null,
+                  "description": "lifunudt/M2SLAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -509,7 +509,7 @@
                 {
                   "node_type": "item",
                   "title": "ethz-asl/nbvplanner",
-                  "description": null,
+                  "description": "ethz-asl/nbvplanner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -572,7 +572,7 @@
                 {
                   "node_type": "item",
                   "title": "BertaBescos/DynaSLAM",
-                  "description": null,
+                  "description": "BertaBescos/DynaSLAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -614,7 +614,7 @@
                 {
                   "node_type": "item",
                   "title": "damienfir/android-ptam",
-                  "description": null,
+                  "description": "damienfir/android-ptam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -649,7 +649,7 @@
                 {
                   "node_type": "item",
                   "title": "raulmur/ORB_SLAM",
-                  "description": "....",
+                  "description": "raulmur/ORB_SLAM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -677,7 +677,7 @@
                 {
                   "node_type": "item",
                   "title": "UZ-SLAMLab/ORB_SLAM3",
-                  "description": null,
+                  "description": "UZ-SLAMLab/ORB_SLAM3",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -735,7 +735,7 @@
                 {
                   "node_type": "item",
                   "title": "pizzoli/rpg_svo",
-                  "description": null,
+                  "description": "pizzoli/rpg_svo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -763,7 +763,7 @@
                 {
                   "node_type": "item",
                   "title": "tum-vision/lsd_slam",
-                  "description": null,
+                  "description": "tum-vision/lsd_slam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -847,7 +847,7 @@
                 {
                   "node_type": "item",
                   "title": "shichaoy/cube_slam",
-                  "description": null,
+                  "description": "shichaoy/cube_slam",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -877,7 +877,7 @@
                 {
                   "node_type": "item",
                   "title": "jczarnowski/DeepFactors",
-                  "description": null,
+                  "description": "jczarnowski/DeepFactors",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -905,7 +905,7 @@
                 {
                   "node_type": "item",
                   "title": "xiefei2929/ORB_SLAM3-RGBD-Inertial",
-                  "description": null,
+                  "description": "xiefei2929/ORB_SLAM3-RGBD-Inertial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -972,7 +972,7 @@
             {
               "node_type": "item",
               "title": "erik-nelson/blam",
-              "description": null,
+              "description": "erik-nelson/blam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,7 +1073,7 @@
             {
               "node_type": "item",
               "title": "JakobEngel/dso",
-              "description": null,
+              "description": "JakobEngel/dso",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1157,7 +1157,7 @@
             {
               "node_type": "item",
               "title": "johannes-graeter/momo",
-              "description": null,
+              "description": "johannes-graeter/momo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,7 +1185,7 @@
             {
               "node_type": "item",
               "title": "Uehwan/SimVODIS",
-              "description": null,
+              "description": "Uehwan/SimVODIS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1225,7 +1225,7 @@
                 {
                   "node_type": "item",
                   "title": "KumarRobotics/msckf_vio",
-                  "description": null,
+                  "description": "KumarRobotics/msckf_vio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1238,7 +1238,7 @@
                     "open_issues": 12,
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
-                    "stars": 1976,
+                    "stars": 1975,
                     "topics": [
                       "ros",
                       "stereo-vision",
@@ -1257,7 +1257,7 @@
                 {
                   "node_type": "item",
                   "title": "HKUST-Aerial-Robotics/VINS-Mono",
-                  "description": null,
+                  "description": "HKUST-Aerial-Robotics/VINS-Mono",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1289,7 +1289,7 @@
                 {
                   "node_type": "item",
                   "title": "gaowenliang/vins_so",
-                  "description": null,
+                  "description": "gaowenliang/vins_so",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1364,7 +1364,7 @@
                     "open_issues": 5,
                     "owner": "rpng",
                     "repo": "R-VIO",
-                    "stars": 902,
+                    "stars": 901,
                     "topics": [
                       "ijrr",
                       "iros",
@@ -1400,7 +1400,7 @@
             {
               "node_type": "item",
               "title": "danylaksono/Android-SfM-client",
-              "description": null,
+              "description": "danylaksono/Android-SfM-client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1428,7 +1428,7 @@
             {
               "node_type": "item",
               "title": "tinghuiz/SfMLearner",
-              "description": null,
+              "description": "tinghuiz/SfMLearner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1462,7 +1462,7 @@
             {
               "node_type": "item",
               "title": "drormoran/Equivariant-SFM",
-              "description": null,
+              "description": "drormoran/Equivariant-SFM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1496,7 +1496,7 @@
             {
               "node_type": "item",
               "title": "jzubizarreta/dsm",
-              "description": null,
+              "description": "jzubizarreta/dsm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1524,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "tum-vision/fastfusion",
-              "description": null,
+              "description": "tum-vision/fastfusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1558,7 +1558,7 @@
             {
               "node_type": "item",
               "title": "knagara/SLAMwithCameraIMUforAndroid",
-              "description": null,
+              "description": "knagara/SLAMwithCameraIMUforAndroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1586,7 +1586,7 @@
             {
               "node_type": "item",
               "title": "HKUST-Aerial-Robotics/VINS-Mobile",
-              "description": null,
+              "description": "HKUST-Aerial-Robotics/VINS-Mobile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1624,7 +1624,7 @@
             {
               "node_type": "item",
               "title": "youngguncho/awesome-slam-datasets",
-              "description": null,
+              "description": "youngguncho/awesome-slam-datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1647,7 +1647,7 @@
                 {
                   "node_type": "item",
                   "title": "AaltoVision/ADVIO",
-                  "description": null,
+                  "description": "AaltoVision/ADVIO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1680,7 +1680,7 @@
                 {
                   "node_type": "item",
                   "title": "uzh-rpg/rpg_trajectory_evaluation",
-                  "description": null,
+                  "description": "uzh-rpg/rpg_trajectory_evaluation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1693,7 +1693,7 @@
                     "open_issues": 39,
                     "owner": "uzh-rpg",
                     "repo": "rpg_trajectory_evaluation",
-                    "stars": 1215,
+                    "stars": 1214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1708,7 +1708,7 @@
                 {
                   "node_type": "item",
                   "title": "mit-aera/FlightGoggles",
-                  "description": null,
+                  "description": "mit-aera/FlightGoggles",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1721,7 +1721,7 @@
                     "open_issues": 22,
                     "owner": "mit-aera",
                     "repo": "FlightGoggles",
-                    "stars": 444,
+                    "stars": 443,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:31:05.675Z",
+    "last_updated": "2026-10-03T04:29:39.423Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
