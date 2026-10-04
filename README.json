@@ -1537,7 +1537,7 @@
                 "open_issues": 23,
                 "owner": "tum-vision",
                 "repo": "fastfusion",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1660,7 +1660,7 @@
                     "open_issues": 11,
                     "owner": "AaltoVision",
                     "repo": "ADVIO",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": [
                       "benchmarking",
                       "computer-vision",
@@ -1693,7 +1693,7 @@
                     "open_issues": 39,
                     "owner": "uzh-rpg",
                     "repo": "rpg_trajectory_evaluation",
-                    "stars": 1214,
+                    "stars": 1213,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:52:48.667Z",
+    "last_updated": "2026-10-04T10:35:31.110Z",
     "original_repository_info": {
       "archived": false,
       "description": null,

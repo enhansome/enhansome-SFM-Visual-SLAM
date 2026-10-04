@@ -341,7 +341,7 @@ Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/vrabaud/sfm_toolbox> ⭐ 69 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,563 | 🐛 311 | 🌐 C++ | 📅 2026-08-30
+<https://github.com/openMVG/openMVG> ⭐ 6,564 | 🐛 311 | 🌐 C++ | 📅 2026-08-30
 
 collection of computer vision methods for solving geometric vision problems
 <https://github.com/laurentkneip/opengv> ⭐ 1,132 | 🐛 59 | 🌐 C++ | 📅 2023-06-07
@@ -363,7 +363,7 @@ its paper : <https://arxiv.org/pdf/1704.02672.pdf>
 
 ##### Volumetric 3D Mapping in Real-Time on a CPU
 
-<https://github.com/tum-vision/fastfusion> ⭐ 573 | 🐛 23 | 🌐 C++ | 📅 2016-06-23
+<https://github.com/tum-vision/fastfusion> ⭐ 574 | 🐛 23 | 🌐 C++ | 📅 2016-06-23
 
 ## Others :
 
@@ -404,7 +404,7 @@ different scenes for evaluating VI odometry
 
 ##### Authentic Dataset for Visual-Inertial Odometry
 
-<https://github.com/AaltoVision/ADVIO> ⭐ 273 | 🐛 11 | 🌐 Python | 📅 2019-06-06
+<https://github.com/AaltoVision/ADVIO> ⭐ 274 | 🐛 11 | 🌐 Python | 📅 2019-06-06
 
 ##### challenging Visual Inertial Odometry benchmark
 
@@ -424,7 +424,7 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 
 ##### Toolbox for quantitative trajectory evaluation of VO/VIO
 
-<https://github.com/uzh-rpg/rpg_trajectory_evaluation> ⭐ 1,214 | 🐛 39 | 🌐 Python | 📅 2023-03-30
+<https://github.com/uzh-rpg/rpg_trajectory_evaluation> ⭐ 1,213 | 🐛 39 | 🌐 Python | 📅 2023-03-30
 
 ##### Photorealistic Simulator for VIO testing/benchmarking
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
