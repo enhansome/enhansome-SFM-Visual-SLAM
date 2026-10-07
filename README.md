@@ -48,7 +48,7 @@ from Roland Siegwart
 
 ##### SLAM with Apriltag
 
-<https://github.com/berndpfrommer/tagslam> ⭐ 375 | 🐛 0 | 🌐 C++ | 📅 2026-01-08
+<https://github.com/berndpfrommer/tagslam> ⭐ 376 | 🐛 0 | 🌐 C++ | 📅 2026-01-08
 ROS ready, bag file available
 
 ##### SE2 SLAM fusing odom and Vision
@@ -88,7 +88,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### Real-time dense visual SLAM system  : ElasticFusion
 
-<https://github.com/mp3guy/ElasticFusion> ⭐ 1,930 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
+<https://github.com/mp3guy/ElasticFusion> ⭐ 1,931 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
 it has nice gui and dataset , paper and video too .
 
 ##### Real-time dense visual SLAM
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,127 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,126 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -224,7 +224,7 @@ UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Map
 
 ##### Dense Sparse odometry
 
-<https://github.com/JakobEngel/dso> ⭐ 2,460 | 🐛 138 | 🌐 C++ | 📅 2024-02-23
+<https://github.com/JakobEngel/dso> ⭐ 2,459 | 🐛 138 | 🌐 C++ | 📅 2024-02-23
 
 ##### monocular odometry algorithm
 
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,749 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,751 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 233 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -274,7 +274,7 @@ Robust Visual Inertial Odometry
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,048 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,050 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
