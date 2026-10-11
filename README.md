@@ -143,14 +143,14 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 <https://github.com/raulmur/ORB_SLAM> ⭐ 1,633 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,249 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,250 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,136 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,139 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -274,7 +274,7 @@ Robust Visual Inertial Odometry
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,051 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,053 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -341,7 +341,7 @@ Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/vrabaud/sfm_toolbox> ⭐ 69 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,568 | 🐛 311 | 🌐 C++ | 📅 2026-08-30
+<https://github.com/openMVG/openMVG> ⭐ 6,569 | 🐛 311 | 🌐 C++ | 📅 2026-08-30
 
 collection of computer vision methods for solving geometric vision problems
 <https://github.com/laurentkneip/opengv> ⭐ 1,132 | 🐛 60 | 🌐 C++ | 📅 2023-06-07
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
