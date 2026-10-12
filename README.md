@@ -25,7 +25,7 @@ General SLAM Framework which supports feature based or direct method and differe
 
 MCPTAM is a set of ROS nodes for running Real-time 3D Visual Simultaneous Localization and Mapping (SLAM) using Multi-Camera Clusters. It includes tools for calibrating both the intrinsic and extrinsic parameters of the individual cameras within the rigid camera rig.
 
-<https://github.com/aharmat/mcptam> ⭐ 165 | 🐛 11 | 🌐 C++ | 📅 2017-03-08
+<https://github.com/aharmat/mcptam> ⭐ 164 | 🐛 11 | 🌐 C++ | 📅 2017-03-08
 
 ##### FAB-MAP
 
@@ -34,7 +34,7 @@ visual place recognition algorithm
 
 ##### rat-SLAM
 
-<https://github.com/davidmball/ratslam> ⭐ 169 | 🐛 16 | 🌐 C++ | 📅 2023-01-16
+<https://github.com/davidmball/ratslam> ⭐ 170 | 🐛 16 | 🌐 C++ | 📅 2023-01-16
 
 ##### maplab
 
@@ -69,9 +69,9 @@ Many Demos are available in the website with Several ROS bags
 
 ##### general and scalable framework for visual SLAM
 
-<https://github.com/strasdat/ScaViSLAM/> ⭐ 343 | 🐛 39 | 🌐 C++ | 📅 2017-05-10
+<https://github.com/strasdat/ScaViSLAM/> ⭐ 342 | 🐛 39 | 🌐 C++ | 📅 2017-05-10
 
-<https://github.com/felixendres/rgbdslam_v2> ⭐ 983 | 🐛 63 | 🌐 C++ | 📅 2023-07-18
+<https://github.com/felixendres/rgbdslam_v2> ⭐ 982 | 🐛 63 | 🌐 C++ | 📅 2023-07-18
 ROS ready, It accompany a PHD thesis from TUM
 
 ##### SLAM in unstructed environments
@@ -88,7 +88,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### Real-time dense visual SLAM system  : ElasticFusion
 
-<https://github.com/mp3guy/ElasticFusion> ⭐ 1,930 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
+<https://github.com/mp3guy/ElasticFusion> ⭐ 1,929 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
 it has nice gui and dataset , paper and video too .
 
 ##### Real-time dense visual SLAM
@@ -119,7 +119,7 @@ from oxford university c++ SLAM\
 
 ##### Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot
 
-<https://github.com/ydsf16/dre_slam> ⭐ 181 | 🐛 7 | 🌐 C++ | 📅 2024-05-18
+<https://github.com/ydsf16/dre_slam> ⭐ 180 | 🐛 7 | 🌐 C++ | 📅 2024-05-18
 ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 ##### DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes
@@ -143,18 +143,18 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 <https://github.com/raulmur/ORB_SLAM> ⭐ 1,633 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,250 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,249 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,139 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,140 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
-<https://github.com/uzh-rpg/rpg_open_remode> ⭐ 495 | 🐛 23 | 🌐 C++ | 📅 2019-01-25 ...
+<https://github.com/uzh-rpg/rpg_open_remode> ⭐ 494 | 🐛 23 | 🌐 C++ | 📅 2019-01-25 ...
 Probabilistic, Monocular Dense Reconstruction in Real Time
 
 ##### Fast Semi-Direct Monocular Visual Odometry
@@ -168,7 +168,7 @@ no loop closure or bundle adjustment
 
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 
-<https://github.com/tum-vision/lsd_slam> ⭐ 2,731 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
+<https://github.com/tum-vision/lsd_slam> ⭐ 2,730 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
 
 modification over the original package to work with rolling chatter camera ( cheap webcams)
 <https://github.com/FirefoxMetzger/lsd_slam> ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2017-04-14
@@ -190,7 +190,7 @@ with paper and video ICRA 2017 , rosbag as well.
 
 ##### DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 
-<https://github.com/jczarnowski/DeepFactors?fbclid=IwAR3tMyM_VisfjADs5pX3OHoxSU6w6MorupmvXZDr8c9m2MWLObdcnlBNNpg> ⭐ 641 | 🐛 7 | 🌐 C++ | 📅 2022-10-15
+<https://github.com/jczarnowski/DeepFactors?fbclid=IwAR3tMyM_VisfjADs5pX3OHoxSU6w6MorupmvXZDr8c9m2MWLObdcnlBNNpg> ⭐ 640 | 🐛 7 | 🌐 C++ | 📅 2022-10-15
 
 ##### ORB-SLAM RGBD + Inertial
 
@@ -214,11 +214,11 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,939 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,941 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
-<https://github.com/url-kaist/UV-SLAM> ⭐ 302 | 🐛 5 | 🌐 C++ | 📅 2023-08-03
+<https://github.com/url-kaist/UV-SLAM> ⭐ 301 | 🐛 5 | 🌐 C++ | 📅 2023-08-03
 
 ## Visual Odometry
 
@@ -228,12 +228,12 @@ UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Map
 
 ##### monocular odometry algorithm
 
-<https://github.com/alejocb/dpptam> ⭐ 220 | 🐛 28 | 🌐 C++ | 📅 2017-04-17
+<https://github.com/alejocb/dpptam> ⭐ 219 | 🐛 28 | 🌐 C++ | 📅 2017-04-17
 Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
 
 ##### Stereo Visual odometry
 
-<https://github.com/rubengooj/StVO-PL> ⭐ 222 | 🐛 13 | 🌐 C++ | 📅 2019-11-24
+<https://github.com/rubengooj/StVO-PL> ⭐ 221 | 🐛 13 | 🌐 C++ | 📅 2019-11-24
 Stereo Visual Odometry by combining point and line segment features
 
 ##### Monocular Motion Estimation on Manifolds
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,756 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,757 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 233 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -274,7 +274,7 @@ Robust Visual Inertial Odometry
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,053 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,055 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -282,7 +282,7 @@ Robust Visual Inertial Odometry
 
 ##### Realtime Edge Based Inertial Visual Odometry for a Monocular Camera
 
-<https://github.com/JuanTarrio/rebvo> ⭐ 274 | 🐛 11 | 🌐 Objective-C | 📅 2020-10-16
+<https://github.com/JuanTarrio/rebvo> ⭐ 273 | 🐛 11 | 🌐 Objective-C | 📅 2020-10-16
 Specially targetted to embedded hardware.
 
 ##### robocentric visual-inertial odometry
@@ -338,10 +338,10 @@ SFMedu: A Matlab-based Structure-from-Motion System for Education
 Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/scivision/em-sfm> ⚠️ Archived
 
-<https://github.com/vrabaud/sfm_toolbox> ⭐ 69 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
+<https://github.com/vrabaud/sfm_toolbox> ⭐ 68 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,569 | 🐛 311 | 🌐 C++ | 📅 2026-08-30
+<https://github.com/openMVG/openMVG> ⭐ 6,570 | 🐛 312 | 🌐 C++ | 📅 2026-08-30
 
 collection of computer vision methods for solving geometric vision problems
 <https://github.com/laurentkneip/opengv> ⭐ 1,132 | 🐛 60 | 🌐 C++ | 📅 2023-06-07
@@ -404,7 +404,7 @@ different scenes for evaluating VI odometry
 
 ##### Authentic Dataset for Visual-Inertial Odometry
 
-<https://github.com/AaltoVision/ADVIO> ⭐ 274 | 🐛 11 | 🌐 Python | 📅 2019-06-06
+<https://github.com/AaltoVision/ADVIO> ⭐ 275 | 🐛 11 | 🌐 Python | 📅 2019-06-06
 
 ##### challenging Visual Inertial Odometry benchmark
 
@@ -467,8 +467,8 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 ## Another Curated list
 
 for SFM, 3D reconstruction and V-SLAM
-<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,427 | 🐛 6 | 📅 2021-10-12
+<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,428 | 🐛 6 | 📅 2021-10-12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

@@ -77,7 +77,7 @@
                 "open_issues": 11,
                 "owner": "aharmat",
                 "repo": "mcptam",
-                "stars": 165,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -105,7 +105,7 @@
                 "open_issues": 16,
                 "owner": "davidmball",
                 "repo": "ratslam",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -265,7 +265,7 @@
                     "open_issues": 39,
                     "owner": "strasdat",
                     "repo": "ScaViSLAM",
-                    "stars": 343,
+                    "stars": 342,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -286,7 +286,7 @@
                     "open_issues": 63,
                     "owner": "felixendres",
                     "repo": "rgbdslam_v2",
-                    "stars": 983,
+                    "stars": 982,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1930,
+                    "stars": 1929,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -550,7 +550,7 @@
                     "open_issues": 7,
                     "owner": "ydsf16",
                     "repo": "dre_slam",
-                    "stars": 181,
+                    "stars": 180,
                     "topics": [
                       "mobile-robotics",
                       "mobile-robotics-slam",
@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9139,
+                    "stars": 9140,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -720,7 +720,7 @@
                     "open_issues": 23,
                     "owner": "uzh-rpg",
                     "repo": "rpg_open_remode",
-                    "stars": 495,
+                    "stars": 494,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -776,7 +776,7 @@
                     "open_issues": 240,
                     "owner": "tum-vision",
                     "repo": "lsd_slam",
-                    "stars": 2731,
+                    "stars": 2730,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -890,7 +890,7 @@
                     "open_issues": 7,
                     "owner": "jczarnowski",
                     "repo": "DeepFactors",
-                    "stars": 641,
+                    "stars": 640,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4939,
+                "stars": 4941,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1114,7 +1114,7 @@
                 "open_issues": 28,
                 "owner": "alejocb",
                 "repo": "dpptam",
-                "stars": 220,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1142,7 +1142,7 @@
                 "open_issues": 13,
                 "owner": "rubengooj",
                 "repo": "stvo-pl",
-                "stars": 222,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6053,
+                    "stars": 6055,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1336,7 +1336,7 @@
                     "open_issues": 11,
                     "owner": "JuanTarrio",
                     "repo": "rebvo",
-                    "stars": 274,
+                    "stars": 273,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1660,7 +1660,7 @@
                     "open_issues": 11,
                     "owner": "AaltoVision",
                     "repo": "ADVIO",
-                    "stars": 274,
+                    "stars": 275,
                     "topics": [
                       "benchmarking",
                       "computer-vision",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:50:05.830Z",
+    "last_updated": "2026-10-12T12:01:18.248Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1753,7 +1753,7 @@
       "open_issues": 0,
       "owner": "marknabil",
       "repo": "SFM-Visual-SLAM",
-      "stars": 778,
+      "stars": 777,
       "topics": [
         "augmented-reality",
         "awesome-list",
