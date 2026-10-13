@@ -39,7 +39,7 @@ visual place recognition algorithm
 ##### maplab
 
 An Open Framework for Research in Visual-inertial Mapping and Localization
-<https://github.com/ethz-asl/maplab> ⭐ 2,879 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
+<https://github.com/ethz-asl/maplab> ⭐ 2,880 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
 from Roland Siegwart
 
 ##### OpenVSLAM: Versatile Visual SLAM Framework
@@ -115,7 +115,7 @@ from oxford university c++ SLAM\
 
 ##### next best view planner
 
-<https://github.com/ethz-asl/nbvplanner> ⭐ 453 | 🐛 18 | 🌐 C++ | 📅 2020-01-17
+<https://github.com/ethz-asl/nbvplanner> ⭐ 454 | 🐛 18 | 🌐 C++ | 📅 2020-01-17
 
 ##### Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot
 
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,140 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,142 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,757 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,761 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 233 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -266,15 +266,15 @@ Camera-to-IMU calibration toolbox
 ##### ROVIO
 
 Robust Visual Inertial Odometry
-<https://github.com/ethz-asl/rovio> ⭐ 1,270 | 🐛 83 | 🌐 C++ | 📅 2026-09-03
+<https://github.com/ethz-asl/rovio> ⭐ 1,271 | 🐛 83 | 🌐 C++ | 📅 2026-09-03
 
 ##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,977 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
+<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,978 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,055 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,058 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,806 | 🐛 233 | 🌐 Python | 📅 2026-10-05
+<https://github.com/mapillary/OpenSfM> ⭐ 3,807 | 🐛 233 | 🌐 Python | 📅 2026-10-05
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
