@@ -133,7 +133,7 @@
                 "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2976,
+                "stars": 2977,
                 "topics": [
                   "computer-vision",
                   "fisheye",
@@ -522,7 +522,7 @@
                     "open_issues": 18,
                     "owner": "ethz-asl",
                     "repo": "nbvplanner",
-                    "stars": 454,
+                    "stars": 455,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1041,7 +1041,7 @@
                 "open_issues": 183,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4941,
+                "stars": 4944,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:49:22.489Z",
+    "last_updated": "2026-10-14T09:31:35.891Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
