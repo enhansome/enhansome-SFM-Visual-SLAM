@@ -39,7 +39,7 @@ visual place recognition algorithm
 ##### maplab
 
 An Open Framework for Research in Visual-inertial Mapping and Localization
-<https://github.com/ethz-asl/maplab> ⭐ 2,880 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
+<https://github.com/ethz-asl/maplab> ⭐ 2,881 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
 from Roland Siegwart
 
 ##### OpenVSLAM: Versatile Visual SLAM Framework
@@ -140,17 +140,17 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 ##### ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 
-<https://github.com/raulmur/ORB_SLAM> ⭐ 1,635 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
+<https://github.com/raulmur/ORB_SLAM> ⭐ 1,636 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,252 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,253 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,145 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,149 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -214,7 +214,7 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,945 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,946 | 🐛 183 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,763 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,765 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 233 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -274,7 +274,7 @@ Robust Visual Inertial Odometry
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,059 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,058 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -308,12 +308,12 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,806 | 🐛 233 | 🌐 Python | 📅 2026-10-14
+<https://github.com/mapillary/OpenSfM> ⭐ 3,807 | 🐛 233 | 🌐 Python | 📅 2026-10-16
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
 An unsupervised learning framework for depth and ego-motion estimation from monocular videos
-<https://github.com/tinghuiz/SfMLearner> ⭐ 2,016 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
+<https://github.com/tinghuiz/SfMLearner> ⭐ 2,014 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
 
 ##### CVPR 2015 Tutorial for open source SFM
 
@@ -322,7 +322,7 @@ Source material for the CVPR 2015 Tutorial: Open Source Structure-from-Motion
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
-<https://github.com/tinghuiz/SfMLearner> ⭐ 2,016 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
+<https://github.com/tinghuiz/SfMLearner> ⭐ 2,014 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
 
 ##### Deep Permutation Equivariant Structure from Motion
 
@@ -341,10 +341,10 @@ Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/vrabaud/sfm_toolbox> ⭐ 68 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,572 | 🐛 313 | 🌐 C++ | 📅 2026-08-30
+<https://github.com/openMVG/openMVG> ⭐ 6,574 | 🐛 313 | 🌐 C++ | 📅 2026-08-30
 
 collection of computer vision methods for solving geometric vision problems
-<https://github.com/laurentkneip/opengv> ⭐ 1,133 | 🐛 60 | 🌐 C++ | 📅 2023-06-07
+<https://github.com/laurentkneip/opengv> ⭐ 1,134 | 🐛 60 | 🌐 C++ | 📅 2023-06-07
 
 ##### Multiview Geometry Library in C++11
 
@@ -369,11 +369,11 @@ its paper : <https://arxiv.org/pdf/1704.02672.pdf>
 
 ##### SLAM with IMU on Android
 
-<https://github.com/knagara/SLAMwithCameraIMUforAndroid> ⭐ 137 | 🐛 1 | 🌐 Java | 📅 2017-05-20
+<https://github.com/knagara/SLAMwithCameraIMUforAndroid> ⭐ 138 | 🐛 1 | 🌐 Java | 📅 2017-05-20
 
 ##### IOS iphone 7 plus
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,366 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,367 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
 
 ##### Matlab
 
@@ -404,7 +404,7 @@ different scenes for evaluating VI odometry
 
 ##### Authentic Dataset for Visual-Inertial Odometry
 
-<https://github.com/AaltoVision/ADVIO> ⭐ 275 | 🐛 11 | 🌐 Python | 📅 2019-06-06
+<https://github.com/AaltoVision/ADVIO> ⭐ 276 | 🐛 11 | 🌐 Python | 📅 2019-06-06
 
 ##### challenging Visual Inertial Odometry benchmark
 
@@ -467,8 +467,8 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 ## Another Curated list
 
 for SFM, 3D reconstruction and V-SLAM
-<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,428 | 🐛 6 | 📅 2021-10-12
+<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,429 | 🐛 6 | 📅 2021-10-12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
