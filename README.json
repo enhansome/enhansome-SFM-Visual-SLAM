@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9151,
+                    "stars": 9152,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -957,7 +957,7 @@
                 "open_issues": 6,
                 "owner": "johannes-graeter",
                 "repo": "limo",
-                "stars": 896,
+                "stars": 897,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:33:55.173Z",
+    "last_updated": "2026-10-18T08:51:42.029Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
