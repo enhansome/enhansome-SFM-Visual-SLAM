@@ -286,7 +286,7 @@
                     "open_issues": 63,
                     "owner": "felixendres",
                     "repo": "rgbdslam_v2",
-                    "stars": 982,
+                    "stars": 983,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -342,7 +342,7 @@
                     "open_issues": 53,
                     "owner": "tum-vision",
                     "repo": "dvo_slam",
-                    "stars": 669,
+                    "stars": 668,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1929,
+                    "stars": 1930,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -430,7 +430,7 @@
                     "open_issues": 43,
                     "owner": "mp3guy",
                     "repo": "Kintinuous",
-                    "stars": 953,
+                    "stars": 954,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9156,
+                    "stars": 9163,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -890,7 +890,7 @@
                     "open_issues": 7,
                     "owner": "jczarnowski",
                     "repo": "DeepFactors",
-                    "stars": 640,
+                    "stars": 641,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -953,7 +953,7 @@
                 "id": 125035290,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2025-12-28T22:01:32Z",
+                "last_commit": "2026-10-19T15:01:21Z",
                 "open_issues": 6,
                 "owner": "johannes-graeter",
                 "repo": "limo",
@@ -1038,10 +1038,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-02-14T10:05:51Z",
-                "open_issues": 183,
+                "open_issues": 184,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4947,
+                "stars": 4948,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1086,7 +1086,7 @@
                 "open_issues": 138,
                 "owner": "JakobEngel",
                 "repo": "dso",
-                "stars": 2459,
+                "stars": 2460,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1441,7 +1441,7 @@
                 "open_issues": 48,
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
-                "stars": 2014,
+                "stars": 2015,
                 "topics": [
                   "deep-learning",
                   "depth-prediction",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:54:45.446Z",
+    "last_updated": "2026-10-20T09:25:53.428Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1753,7 +1753,7 @@
       "open_issues": 0,
       "owner": "marknabil",
       "repo": "SFM-Visual-SLAM",
-      "stars": 777,
+      "stars": 778,
       "topics": [
         "augmented-reality",
         "awesome-list",
