@@ -39,7 +39,7 @@ visual place recognition algorithm
 ##### maplab
 
 An Open Framework for Research in Visual-inertial Mapping and Localization
-<https://github.com/ethz-asl/maplab> ⭐ 2,884 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
+<https://github.com/ethz-asl/maplab> ⭐ 2,885 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
 from Roland Siegwart
 
 ##### OpenVSLAM: Versatile Visual SLAM Framework
@@ -124,7 +124,7 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 ##### DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes
 
-<https://github.com/BertaBescos/DynaSLAM> ⭐ 948 | 🐛 64 | 🌐 C++ | 📅 2020-03-18
+<https://github.com/BertaBescos/DynaSLAM> ⭐ 949 | 🐛 64 | 🌐 C++ | 📅 2020-03-18
 
 ### Augmented Reality
 
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,172 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,174 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -186,7 +186,7 @@ with paper and video ICRA 2017 , rosbag as well.
 
 ##### monocular object pose SLAM
 
-<https://github.com/shichaoy/cube_slam> ⭐ 886 | 🐛 35 | 🌐 C++ | 📅 2020-11-24
+<https://github.com/shichaoy/cube_slam> ⭐ 887 | 🐛 35 | 🌐 C++ | 📅 2020-11-24
 
 ##### DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 
@@ -209,12 +209,12 @@ Virtual machine with all the dependencies is ready.
 
 ##### segmatch
 
-<https://github.com/ethz-asl/segmatch> ⭐ 1,097 | 🐛 66 | 🌐 C++ | 📅 2021-03-17
+<https://github.com/ethz-asl/segmatch> ⭐ 1,098 | 🐛 66 | 🌐 C++ | 📅 2021-03-17
 A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,952 | 🐛 185 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,954 | 🐛 185 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,776 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,777 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 233 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,810 | 🐛 233 | 🌐 Python | 📅 2026-10-22
+<https://github.com/mapillary/OpenSfM> ⭐ 3,811 | 🐛 233 | 🌐 Python | 📅 2026-10-22
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
