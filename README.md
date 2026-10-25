@@ -88,7 +88,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### Real-time dense visual SLAM system  : ElasticFusion
 
-<https://github.com/mp3guy/ElasticFusion> ⭐ 1,930 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
+<https://github.com/mp3guy/ElasticFusion> ⭐ 1,931 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
 it has nice gui and dataset , paper and video too .
 
 ##### Real-time dense visual SLAM
@@ -111,7 +111,7 @@ Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features .
 ##### SceneLib2 - MonoSLAM open-source library
 
 from oxford university c++ SLAM\
-<https://github.com/hanmekim/SceneLib2> ⭐ 380 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
+<https://github.com/hanmekim/SceneLib2> ⭐ 379 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
 
 ##### next best view planner
 
@@ -143,14 +143,14 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 <https://github.com/raulmur/ORB_SLAM> ⭐ 1,636 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,264 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,267 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,174 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,178 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -168,7 +168,7 @@ no loop closure or bundle adjustment
 
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 
-<https://github.com/tum-vision/lsd_slam> ⭐ 2,731 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
+<https://github.com/tum-vision/lsd_slam> ⭐ 2,732 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
 
 modification over the original package to work with rolling chatter camera ( cheap webcams)
 <https://github.com/FirefoxMetzger/lsd_slam> ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2017-04-14
@@ -270,11 +270,11 @@ Robust Visual Inertial Odometry
 
 ##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,980 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
+<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,982 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,064 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,065 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,811 | 🐛 233 | 🌐 Python | 📅 2026-10-22
+<https://github.com/mapillary/OpenSfM> ⭐ 3,812 | 🐛 234 | 🌐 Python | 📅 2026-10-22
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -428,7 +428,7 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 
 ##### Photorealistic Simulator for VIO testing/benchmarking
 
-<https://github.com/mit-fast/FlightGoggles> ⭐ 443 | 🐛 22 | 🌐 C++ | 📅 2024-04-01
+<https://github.com/mit-fast/FlightGoggles> ⭐ 444 | 🐛 22 | 🌐 C++ | 📅 2024-04-01
 
 # Machine Learning/ Deep learning based
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
