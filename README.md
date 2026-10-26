@@ -115,7 +115,7 @@ from oxford university c++ SLAM\
 
 ##### next best view planner
 
-<https://github.com/ethz-asl/nbvplanner> ⭐ 455 | 🐛 18 | 🌐 C++ | 📅 2020-01-17
+<https://github.com/ethz-asl/nbvplanner> ⭐ 456 | 🐛 18 | 🌐 C++ | 📅 2020-01-17
 
 ##### Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot
 
@@ -140,17 +140,17 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 ##### ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 
-<https://github.com/raulmur/ORB_SLAM> ⭐ 1,636 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
+<https://github.com/raulmur/ORB_SLAM> ⭐ 1,637 | 🐛 121 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,267 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,268 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,178 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,182 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,777 | 🐛 137 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,778 | 🐛 138 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 233 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,812 | 🐛 234 | 🌐 Python | 📅 2026-10-22
+<https://github.com/mapillary/OpenSfM> ⭐ 3,813 | 🐛 234 | 🌐 Python | 📅 2026-10-22
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -341,10 +341,10 @@ Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/vrabaud/sfm_toolbox> ⭐ 68 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,576 | 🐛 313 | 🌐 C++ | 📅 2026-08-30
+<https://github.com/openMVG/openMVG> ⭐ 6,577 | 🐛 313 | 🌐 C++ | 📅 2026-08-30
 
 collection of computer vision methods for solving geometric vision problems
-<https://github.com/laurentkneip/opengv> ⭐ 1,136 | 🐛 60 | 🌐 C++ | 📅 2023-06-07
+<https://github.com/laurentkneip/opengv> ⭐ 1,137 | 🐛 60 | 🌐 C++ | 📅 2023-06-07
 
 ##### Multiview Geometry Library in C++11
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
