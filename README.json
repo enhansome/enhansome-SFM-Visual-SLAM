@@ -133,7 +133,7 @@
                 "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2977,
+                "stars": 2978,
                 "topics": [
                   "computer-vision",
                   "fisheye",
@@ -398,7 +398,7 @@
                     "open_issues": 4,
                     "owner": "mp3guy",
                     "repo": "ElasticFusion",
-                    "stars": 1931,
+                    "stars": 1932,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -659,7 +659,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2022-09-18T00:48:53Z",
-                    "open_issues": 121,
+                    "open_issues": 122,
                     "owner": "raulmur",
                     "repo": "ORB_SLAM",
                     "stars": 1637,
@@ -690,7 +690,7 @@
                     "open_issues": 573,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9182,
+                    "stars": 9187,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 185,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4954,
+                "stars": 4955,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6065,
+                    "stars": 6066,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1637,7 +1637,7 @@
                 "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1948,
+                "stars": 1949,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:08:23.908Z",
+    "last_updated": "2026-10-27T09:49:17.780Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
