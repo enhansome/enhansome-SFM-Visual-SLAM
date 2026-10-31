@@ -34,7 +34,7 @@ visual place recognition algorithm
 
 ##### rat-SLAM
 
-<https://github.com/davidmball/ratslam> ⭐ 170 | 🐛 16 | 🌐 C++ | 📅 2023-01-16
+<https://github.com/davidmball/ratslam> ⭐ 171 | 🐛 16 | 🌐 C++ | 📅 2023-01-16
 
 ##### maplab
 
@@ -80,7 +80,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### Dense Visual Odometry and SLAM (dvo\_slam)
 
-<https://github.com/tum-vision/dvo_slam> ⭐ 668 | 🐛 53 | 🌐 C++ | 📅 2016-09-21
+<https://github.com/tum-vision/dvo_slam> ⭐ 669 | 🐛 53 | 🌐 C++ | 📅 2016-09-21
 
 ##### Coslam: Collaborative visual slam in dynamic environments
 
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,202 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,204 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -168,7 +168,7 @@ no loop closure or bundle adjustment
 
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 
-<https://github.com/tum-vision/lsd_slam> ⭐ 2,732 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
+<https://github.com/tum-vision/lsd_slam> ⭐ 2,733 | 🐛 240 | 🌐 C++ | 📅 2023-03-23
 
 modification over the original package to work with rolling chatter camera ( cheap webcams)
 <https://github.com/FirefoxMetzger/lsd_slam> ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2017-04-14
@@ -214,7 +214,7 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,958 | 🐛 185 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,959 | 🐛 186 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -270,11 +270,11 @@ Robust Visual Inertial Odometry
 
 ##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,984 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
+<https://github.com/KumarRobotics/msckf_vio> ⭐ 1,987 | 🐛 12 | 🌐 C++ | 📅 2023-11-22
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,067 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,068 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
 
 ##### VINS modification for omnidirectional + Streo camera
 
@@ -308,12 +308,12 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,813 | 🐛 234 | 🌐 Python | 📅 2026-10-22
+<https://github.com/mapillary/OpenSfM> ⭐ 3,814 | 🐛 234 | 🌐 Python | 📅 2026-10-30
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
 An unsupervised learning framework for depth and ego-motion estimation from monocular videos
-<https://github.com/tinghuiz/SfMLearner> ⭐ 2,015 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
+<https://github.com/tinghuiz/SfMLearner> ⭐ 2,016 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
 
 ##### CVPR 2015 Tutorial for open source SFM
 
@@ -322,7 +322,7 @@ Source material for the CVPR 2015 Tutorial: Open Source Structure-from-Motion
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
-<https://github.com/tinghuiz/SfMLearner> ⭐ 2,015 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
+<https://github.com/tinghuiz/SfMLearner> ⭐ 2,016 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26
 
 ##### Deep Permutation Equivariant Structure from Motion
 
@@ -373,7 +373,7 @@ its paper : <https://arxiv.org/pdf/1704.02672.pdf>
 
 ##### IOS iphone 7 plus
 
-<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,367 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
+<https://github.com/HKUST-Aerial-Robotics/VINS-Mobile> ⭐ 1,368 | 🐛 63 | 🌐 C++ | 📅 2019-05-30
 
 ##### Matlab
 
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
