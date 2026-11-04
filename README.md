@@ -88,7 +88,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### Real-time dense visual SLAM system  : ElasticFusion
 
-<https://github.com/mp3guy/ElasticFusion> ⭐ 1,933 | 🐛 4 | 🌐 C++ | 📅 2025-08-03 ...
+<https://github.com/mp3guy/ElasticFusion> ⭐ 1,933 | 🐛 5 | 🌐 C++ | 📅 2025-08-03 ...
 it has nice gui and dataset , paper and video too .
 
 ##### Real-time dense visual SLAM
@@ -111,7 +111,7 @@ Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features .
 ##### SceneLib2 - MonoSLAM open-source library
 
 from oxford university c++ SLAM\
-<https://github.com/hanmekim/SceneLib2> ⭐ 379 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
+<https://github.com/hanmekim/SceneLib2> ⭐ 380 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
 
 ##### next best view planner
 
@@ -143,18 +143,18 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 <https://github.com/raulmur/ORB_SLAM> ⭐ 1,638 | 🐛 122 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,272 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,271 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,218 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,219 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
-<https://github.com/uzh-rpg/rpg_open_remode> ⭐ 494 | 🐛 23 | 🌐 C++ | 📅 2019-01-25 ...
+<https://github.com/uzh-rpg/rpg_open_remode> ⭐ 495 | 🐛 23 | 🌐 C++ | 📅 2019-01-25 ...
 Probabilistic, Monocular Dense Reconstruction in Real Time
 
 ##### Fast Semi-Direct Monocular Visual Odometry
@@ -214,7 +214,7 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,967 | 🐛 186 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,971 | 🐛 186 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,794 | 🐛 138 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,796 | 🐛 138 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 234 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,816 | 🐛 234 | 🌐 Python | 📅 2026-11-02
+<https://github.com/mapillary/OpenSfM> ⭐ 3,817 | 🐛 234 | 🌐 Python | 📅 2026-11-02
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -467,8 +467,8 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 ## Another Curated list
 
 for SFM, 3D reconstruction and V-SLAM
-<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,436 | 🐛 6 | 📅 2021-10-12
+<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,437 | 🐛 6 | 📅 2021-10-12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
