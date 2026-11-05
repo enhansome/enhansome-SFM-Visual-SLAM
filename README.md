@@ -76,7 +76,7 @@ ROS ready, It accompany a PHD thesis from TUM
 
 ##### SLAM in unstructed environments
 
-<https://github.com/tu-darmstadt-ros-pkg/hector_slam> ⭐ 745 | 🐛 26 | 🌐 C++ | 📅 2026-06-10
+<https://github.com/tu-darmstadt-ros-pkg/hector_slam> ⭐ 746 | 🐛 26 | 🌐 C++ | 📅 2026-06-10
 
 ##### Dense Visual Odometry and SLAM (dvo\_slam)
 
@@ -150,7 +150,7 @@ its modification to work on IOS :
 
 ##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
-<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,219 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+<https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,223 | 🐛 574 | 🌐 C++ | 📅 2024-07-24
 
 ##### REMODE (REgularized MOnocular Depth Estimation)
 
@@ -214,7 +214,7 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,971 | 🐛 186 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,970 | 🐛 186 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -228,7 +228,7 @@ UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Map
 
 ##### monocular odometry algorithm
 
-<https://github.com/alejocb/dpptam> ⭐ 219 | 🐛 28 | 🌐 C++ | 📅 2017-04-17
+<https://github.com/alejocb/dpptam> ⭐ 220 | 🐛 28 | 🌐 C++ | 📅 2017-04-17
 Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
 
 ##### Stereo Visual odometry
@@ -258,7 +258,7 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,796 | 🐛 138 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,799 | 🐛 138 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
 <https://github.com/hovren/crisp> ⭐ 234 | 🐛 5 | 🌐 Python | 📅 2017-09-05
@@ -341,7 +341,7 @@ Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/vrabaud/sfm_toolbox> ⭐ 68 | 🐛 4 | 🌐 Matlab | 📅 2015-02-22
 
 OpenMVG C++ library
-<https://github.com/openMVG/openMVG> ⭐ 6,585 | 🐛 313 | 🌐 C++ | 📅 2026-08-30
+<https://github.com/openMVG/openMVG> ⭐ 6,587 | 🐛 314 | 🌐 C++ | 📅 2026-08-30
 
 collection of computer vision methods for solving geometric vision problems
 <https://github.com/laurentkneip/opengv> ⭐ 1,138 | 🐛 60 | 🌐 C++ | 📅 2023-06-07
@@ -471,4 +471,4 @@ for SFM, 3D reconstruction and V-SLAM
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

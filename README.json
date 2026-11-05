@@ -314,7 +314,7 @@
                     "open_issues": 26,
                     "owner": "tu-darmstadt-ros-pkg",
                     "repo": "hector_slam",
-                    "stars": 745,
+                    "stars": 746,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -687,10 +687,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2024-07-24T08:41:52Z",
-                    "open_issues": 573,
+                    "open_issues": 574,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9219,
+                    "stars": 9223,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 186,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4971,
+                "stars": 4970,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1114,7 +1114,7 @@
                 "open_issues": 28,
                 "owner": "alejocb",
                 "repo": "dpptam",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:09:03.598Z",
+    "last_updated": "2026-11-05T12:22:29.777Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
