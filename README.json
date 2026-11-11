@@ -133,7 +133,7 @@
                 "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2977,
+                "stars": 2976,
                 "topics": [
                   "computer-vision",
                   "fisheye",
@@ -311,7 +311,7 @@
                     "language": "C++",
                     "license": null,
                     "last_commit": "2026-06-10T08:10:08Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "tu-darmstadt-ros-pkg",
                     "repo": "hector_slam",
                     "stars": 746,
@@ -690,7 +690,7 @@
                     "open_issues": 574,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9241,
+                    "stars": 9244,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 186,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4975,
+                "stars": 4977,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1637,7 +1637,7 @@
                 "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1949,
+                "stars": 1951,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:39:55.078Z",
+    "last_updated": "2026-11-11T11:52:59.476Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
