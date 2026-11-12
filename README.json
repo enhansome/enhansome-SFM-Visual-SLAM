@@ -286,7 +286,7 @@
                     "open_issues": 63,
                     "owner": "felixendres",
                     "repo": "rgbdslam_v2",
-                    "stars": 985,
+                    "stars": 984,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -662,7 +662,7 @@
                     "open_issues": 122,
                     "owner": "raulmur",
                     "repo": "ORB_SLAM",
-                    "stars": 1639,
+                    "stars": 1638,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -860,7 +860,7 @@
                     "open_issues": 35,
                     "owner": "shichaoy",
                     "repo": "cube_slam",
-                    "stars": 887,
+                    "stars": 888,
                     "topics": [
                       "slam"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 186,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4977,
+                "stars": 4978,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1336,7 +1336,7 @@
                     "open_issues": 11,
                     "owner": "JuanTarrio",
                     "repo": "rebvo",
-                    "stars": 274,
+                    "stars": 275,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:52:59.476Z",
+    "last_updated": "2026-11-12T12:43:50.815Z",
     "original_repository_info": {
       "archived": false,
       "description": null,

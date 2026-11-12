@@ -39,7 +39,7 @@ visual place recognition algorithm
 ##### maplab
 
 An Open Framework for Research in Visual-inertial Mapping and Localization
-<https://github.com/ethz-asl/maplab> ⭐ 2,886 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
+<https://github.com/ethz-asl/maplab> ⭐ 2,887 | 🐛 123 | 🌐 C++ | 📅 2024-05-31
 from Roland Siegwart
 
 ##### OpenVSLAM: Versatile Visual SLAM Framework
@@ -71,7 +71,7 @@ Many Demos are available in the website with Several ROS bags
 
 <https://github.com/strasdat/ScaViSLAM/> ⭐ 342 | 🐛 39 | 🌐 C++ | 📅 2017-05-10
 
-<https://github.com/felixendres/rgbdslam_v2> ⭐ 985 | 🐛 63 | 🌐 C++ | 📅 2023-07-18
+<https://github.com/felixendres/rgbdslam_v2> ⭐ 984 | 🐛 63 | 🌐 C++ | 📅 2023-07-18
 ROS ready, It accompany a PHD thesis from TUM
 
 ##### SLAM in unstructed environments
@@ -111,7 +111,7 @@ Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features .
 ##### SceneLib2 - MonoSLAM open-source library
 
 from oxford university c++ SLAM\
-<https://github.com/hanmekim/SceneLib2> ⭐ 380 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
+<https://github.com/hanmekim/SceneLib2> ⭐ 379 | 🐛 6 | 🌐 C++ | 📅 2015-12-28
 
 ##### next best view planner
 
@@ -140,10 +140,10 @@ ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 ##### ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 
-<https://github.com/raulmur/ORB_SLAM> ⭐ 1,639 | 🐛 122 | 🌐 C++ | 📅 2022-09-18 ....
+<https://github.com/raulmur/ORB_SLAM> ⭐ 1,638 | 🐛 122 | 🌐 C++ | 📅 2022-09-18 ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
-<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,274 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
+<https://github.com/raulmur/ORB_SLAM2> ⭐ 10,268 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
 
 its modification to work on IOS :
 <https://github.com/Thunderbolt-sx/ORB_SLAM_iOS> ⭐ 172 | 🐛 9 | 🌐 C++ | 📅 2017-04-25
@@ -186,7 +186,7 @@ with paper and video ICRA 2017 , rosbag as well.
 
 ##### monocular object pose SLAM
 
-<https://github.com/shichaoy/cube_slam> ⭐ 887 | 🐛 35 | 🌐 C++ | 📅 2020-11-24
+<https://github.com/shichaoy/cube_slam> ⭐ 888 | 🐛 35 | 🌐 C++ | 📅 2020-11-24
 
 ##### DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
 
@@ -214,7 +214,7 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ##### LIO-SAM
 
-<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,977 | 🐛 186 | 🌐 C++ | 📅 2025-02-14
+<https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,978 | 🐛 186 | 🌐 C++ | 📅 2025-02-14
 real-time lidar-inertial odometry
 
 UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
@@ -258,15 +258,15 @@ RGB only OR RGB + Depth
 ##### Kalibr
 
 IMU camera calibration toolbox and more.
-<https://github.com/ethz-asl/kalibr> ⭐ 5,809 | 🐛 138 | 🌐 C++ | 📅 2024-03-30
+<https://github.com/ethz-asl/kalibr> ⭐ 5,812 | 🐛 138 | 🌐 C++ | 📅 2024-03-30
 
 Camera-to-IMU calibration toolbox
-<https://github.com/hovren/crisp> ⭐ 234 | 🐛 5 | 🌐 Python | 📅 2017-09-05
+<https://github.com/hovren/crisp> ⭐ 235 | 🐛 5 | 🌐 Python | 📅 2017-09-05
 
 ##### ROVIO
 
 Robust Visual Inertial Odometry
-<https://github.com/ethz-asl/rovio> ⭐ 1,272 | 🐛 83 | 🌐 C++ | 📅 2026-09-03
+<https://github.com/ethz-asl/rovio> ⭐ 1,273 | 🐛 83 | 🌐 C++ | 📅 2026-09-03
 
 ##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
@@ -282,7 +282,7 @@ Robust Visual Inertial Odometry
 
 ##### Realtime Edge Based Inertial Visual Odometry for a Monocular Camera
 
-<https://github.com/JuanTarrio/rebvo> ⭐ 274 | 🐛 11 | 🌐 Objective-C | 📅 2020-10-16
+<https://github.com/JuanTarrio/rebvo> ⭐ 275 | 🐛 11 | 🌐 Objective-C | 📅 2020-10-16
 Specially targetted to embedded hardware.
 
 ##### robocentric visual-inertial odometry
@@ -308,7 +308,7 @@ open geometrical vision
 ##### openSFM
 
 Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
-<https://github.com/mapillary/OpenSfM> ⭐ 3,818 | 🐛 235 | 🌐 Python | 📅 2026-11-02
+<https://github.com/mapillary/OpenSfM> ⭐ 3,819 | 🐛 235 | 🌐 Python | 📅 2026-11-02
 
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 
@@ -333,7 +333,7 @@ Source material for the CVPR 2015 Tutorial: Open Source Structure-from-Motion
 <http://vis.uky.edu/~stewe/FIVEPOINT/>
 
 SFMedu: A Matlab-based Structure-from-Motion System for Education
-<https://github.com/jianxiongxiao/SFMedu> ⭐ 210 | 🐛 5 | 🌐 HTML | 📅 2022-06-13
+<https://github.com/jianxiongxiao/SFMedu> ⭐ 211 | 🐛 5 | 🌐 HTML | 📅 2022-06-13
 
 Lorenzo Torresani's Structure from Motion Matlab code
 <https://github.com/scivision/em-sfm> ⚠️ Archived
@@ -467,8 +467,8 @@ benchmarking RGB-D, Visual Odometry and SLAM algorithms
 ## Another Curated list
 
 for SFM, 3D reconstruction and V-SLAM
-<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,440 | 🐛 6 | 📅 2021-10-12
+<https://github.com/openMVG/awesome_3DReconstruction_list> ⭐ 4,441 | 🐛 6 | 📅 2021-10-12
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
