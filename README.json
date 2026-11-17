@@ -314,7 +314,7 @@
                     "open_issues": 27,
                     "owner": "tu-darmstadt-ros-pkg",
                     "repo": "hector_slam",
-                    "stars": 746,
+                    "stars": 747,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -430,7 +430,7 @@
                     "open_issues": 43,
                     "owner": "mp3guy",
                     "repo": "Kintinuous",
-                    "stars": 954,
+                    "stars": 955,
                     "topics": [
                       "cuda",
                       "reconstruction",
@@ -522,7 +522,7 @@
                     "open_issues": 18,
                     "owner": "ethz-asl",
                     "repo": "nbvplanner",
-                    "stars": 456,
+                    "stars": 455,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -687,10 +687,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2024-07-24T08:41:52Z",
-                    "open_issues": 574,
+                    "open_issues": 575,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9251,
+                    "stars": 9253,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -890,7 +890,7 @@
                     "open_issues": 7,
                     "owner": "jczarnowski",
                     "repo": "DeepFactors",
-                    "stars": 641,
+                    "stars": 642,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1041,7 +1041,7 @@
                 "open_issues": 186,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4981,
+                "stars": 4984,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1509,7 +1509,7 @@
                 "open_issues": 8,
                 "owner": "jzubizarreta",
                 "repo": "dsm",
-                "stars": 459,
+                "stars": 460,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:46:10.424Z",
+    "last_updated": "2026-11-17T13:28:07.949Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
