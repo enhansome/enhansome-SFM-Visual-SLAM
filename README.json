@@ -286,7 +286,7 @@
                     "open_issues": 63,
                     "owner": "felixendres",
                     "repo": "rgbdslam_v2",
-                    "stars": 984,
+                    "stars": 983,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -310,8 +310,8 @@
                     "id": 10050401,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-06-10T08:10:08Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-11-20T10:49:19Z",
+                    "open_issues": 26,
                     "owner": "tu-darmstadt-ros-pkg",
                     "repo": "hector_slam",
                     "stars": 747,
@@ -690,7 +690,7 @@
                     "open_issues": 575,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9262,
+                    "stars": 9264,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -890,7 +890,7 @@
                     "open_issues": 7,
                     "owner": "jczarnowski",
                     "repo": "DeepFactors",
-                    "stars": 642,
+                    "stars": 641,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:39:43.735Z"
@@ -1037,11 +1037,11 @@
                 "id": 276269866,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2025-02-14T10:05:51Z",
+                "last_commit": "2026-11-19T20:49:42Z",
                 "open_issues": 186,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4983,
+                "stars": 4982,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1238,7 +1238,7 @@
                     "open_issues": 12,
                     "owner": "KumarRobotics",
                     "repo": "msckf_vio",
-                    "stars": 1986,
+                    "stars": 1984,
                     "topics": [
                       "ros",
                       "stereo-vision",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6075,
+                    "stars": 6078,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1441,7 +1441,7 @@
                 "open_issues": 48,
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
-                "stars": 2015,
+                "stars": 2013,
                 "topics": [
                   "deep-learning",
                   "depth-prediction",
@@ -1599,7 +1599,7 @@
                 "open_issues": 63,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mobile",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "state-estimation",
                   "vins",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T13:09:33.567Z",
+    "last_updated": "2026-11-20T12:54:24.674Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
