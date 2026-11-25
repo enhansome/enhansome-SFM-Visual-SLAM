@@ -310,7 +310,7 @@
                     "id": 10050401,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-20T10:49:19Z",
+                    "last_commit": "2026-11-25T13:31:14Z",
                     "open_issues": 26,
                     "owner": "tu-darmstadt-ros-pkg",
                     "repo": "hector_slam",
@@ -690,7 +690,7 @@
                     "open_issues": 575,
                     "owner": "UZ-SLAMLab",
                     "repo": "ORB_SLAM3",
-                    "stars": 9274,
+                    "stars": 9276,
                     "topics": [
                       "slam-algorithms"
                     ]
@@ -1041,7 +1041,7 @@
                 "open_issues": 186,
                 "owner": "TixiaoShan",
                 "repo": "LIO-SAM",
-                "stars": 4985,
+                "stars": 4987,
                 "topics": [
                   "3d-mapping",
                   "lidar-inertial",
@@ -1270,7 +1270,7 @@
                     "open_issues": 293,
                     "owner": "HKUST-Aerial-Robotics",
                     "repo": "VINS-Mono",
-                    "stars": 6081,
+                    "stars": 6082,
                     "topics": [
                       "state-estimation",
                       "vins",
@@ -1441,7 +1441,7 @@
                 "open_issues": 48,
                 "owner": "tinghuiz",
                 "repo": "SfMLearner",
-                "stars": 2013,
+                "stars": 2015,
                 "topics": [
                   "deep-learning",
                   "depth-prediction",
@@ -1741,7 +1741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:53:02.541Z",
+    "last_updated": "2026-11-25T14:23:34.491Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
